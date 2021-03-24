@@ -260,7 +260,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: -3.48, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -362,30 +362,30 @@ MonoBehaviour:
   m_GameObject: {fileID: 852049698}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 35314ef01b2394726b2ad019969c8c65, type: 3}
+  m_Script: {fileID: 11500000, guid: 30649b2a428f24eb7937f5b4f50539e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_JumpForce: 700
   m_CrouchSpeed: 0.36
   m_MovementSmoothing: 0.05
-  m_AirControl: 1
+  m_AirControl: 0
   m_WhatIsGround:
     serializedVersion: 2
     m_Bits: 128
-  m_GroundCheck: {fileID: 72107382}
-  m_CeilingCheck: {fileID: 398701006}
+  m_GroundCheck: {fileID: 398701006}
+  m_CeilingCheck: {fileID: 72107382}
   m_CrouchDisableCollider: {fileID: 852049700}
   m_FacingRight: 1
   OnLandEvent:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 852049705}
-        m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-        m_MethodName: OnLanding
+      - m_Target: {fileID: 11500000, guid: a1aafec2fb84d4c3c8c2b94a65c425d6, type: 3}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_ObjectArgumentAssemblyTypeName: 
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -393,19 +393,7 @@ MonoBehaviour:
         m_CallState: 2
   OnCrouchEvent:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 852049705}
-        m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
-        m_MethodName: OnCrouching
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!212 &852049703
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -465,7 +453,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 852049698}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.361278, y: -1.54, z: 0}
+  m_LocalPosition: {x: -6.55, y: -1.54, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 398701006}
@@ -482,7 +470,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 852049698}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f5bab4483da314786b6e4881a61d3282, type: 3}
+  m_Script: {fileID: 11500000, guid: a1aafec2fb84d4c3c8c2b94a65c425d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 852049702}
@@ -516,7 +504,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 852049698}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c58ce286ec66b436ea280955f76aa0fd, type: 3}
+  m_Script: {fileID: 11500000, guid: fda7402af81de4cb081fc99de3857b92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 852049702}
@@ -607,7 +595,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: db750325989564987a34393247d883b4, type: 3}
+  m_Sprite: {fileID: 7482667652216324306, guid: db750325989564987a34393247d883b4,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -716,7 +705,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: db750325989564987a34393247d883b4, type: 3}
+  m_Sprite: {fileID: 7482667652216324306, guid: db750325989564987a34393247d883b4,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
