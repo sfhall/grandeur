@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-03-21T18:48:27.752-04:00
-  initializedAtString: 2021-03-21T18:48:27.752-04:00
+  lastUpdatedAtString: 2021-03-24T13:01:15.095-04:00
+  initializedAtString: 2021-03-24T13:01:15.095-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/sfhall/grandeur.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/sfhall/grandeur.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/sfhall/grandeur.git
