@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CC088726-4455-CC04-3946-8203FD095CDE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets/Scripts/PlayerMovement.cs">
+    <Files>
+      <File FileName="assets/Scripts/PlayerMovement.cs" Line="46" Column="6" />
+      <File FileName="Assets/Scripts/DashMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CharacterController2D.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="grandeur" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerMovement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5c8f07cb-6b6f-44a0-8e51-709ff1c7bd29" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

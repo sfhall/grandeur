@@ -36,10 +36,6 @@ public class PlayerMovement : MonoBehaviour
         {
             crouch = false;
         }
-        else if(Input.GetButtonDown(KeyCode.W))
-        {
-            EnterLevel();
-        }
     }
 
     public void OnLanding()
@@ -58,10 +54,5 @@ public class PlayerMovement : MonoBehaviour
         // Move our character
         controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
         jump = false;
-    }
-
-    private void EnterLevel()
-    {
-        //when in range of door, check if open and then enter and load new scene
     }
 }

@@ -28,6 +28,7 @@ public class DashMove : MonoBehaviour
             {
                 direction = 1;
                 animator.SetInteger("IsDashing", direction);
+                animator.SetBool("IsJumping", false);
             }
         }
         else
