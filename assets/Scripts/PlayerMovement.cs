@@ -17,7 +17,11 @@ public class PlayerMovement : MonoBehaviour
 
     public float runSpeed = 40f;
 
-    bool jump = false;
+    public float jumpRate = 5f;
+    float nextJumpTime = 0f;
+
+    int jump = 0;
+    //bool doubleJump = false;
     bool crouch = false;
 
     // Update is called once per frame
@@ -27,12 +31,27 @@ public class PlayerMovement : MonoBehaviour
 
         animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
 
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonUp("Jump") && animator.GetBool("IsJumping") == true)
         {
-            jump = true;
-            animator.SetBool("IsJumping", true);
+            Debug.Log("JumpButtonUp");
         }
-
+        if (Input.GetButtonDown("Jump") && animator.GetBool("IsJumping") == false)
+        {
+            Debug.Log("JumpButtonDown1");
+            jump = 1;
+            animator.SetBool("IsJumping", true);
+            //if (Time.time >= nextJumpTime)
+            //{
+                
+            //}
+        }
+        else if (Input.GetButtonDown("Jump") && animator.GetBool("IsJumping") == true && Time.time >= nextJumpTime)
+        {
+            Debug.Log("JumpButtonDown2");
+            jump = 2;
+            animator.SetBool("CanDoubleJump", true);
+            animator.SetBool("IsDoubleJumping", true);
+        }
         if (Input.GetButtonDown("Crouch"))
         {
             crouch = true;
@@ -50,7 +69,8 @@ public class PlayerMovement : MonoBehaviour
     public void OnLanding()
     {
         animator.SetBool("IsJumping", false);
-
+        animator.SetBool("CanDoubleJump", false);
+        animator.SetBool("IsDoubleJumping", false);
     }
 
     public void OnCrouching(bool isCrouching)
@@ -61,8 +81,20 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         // Move our character
-        controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
-        jump = false;
+        if (jump == 1)
+        {
+            controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
+        }
+        if (jump == 2)
+        {
+            controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
+            Debug.Log("DoubleJump");
+            nextJumpTime = Time.time + 4f / jumpRate;
+        }
+        else
+            controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
+        jump = 0;
+
     }
 
     private void LoadLevel()
