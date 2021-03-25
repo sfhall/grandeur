@@ -41,7 +41,7 @@ public class PlayerMovement : MonoBehaviour
         {
             crouch = false;
         }
-        else if(Input.GetButtonDown("up"))
+        else if(Input.GetButtonDown("Enter"))
         {
             LoadLevel();
         }
