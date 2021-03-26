@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
 
     public float runSpeed = 40f;
 
-    public float jumpRate = 5f;
+    public float jumpRate = 4f;
     float nextJumpTime = 0f;
 
     int jump = 0;
