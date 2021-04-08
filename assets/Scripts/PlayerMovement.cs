@@ -35,6 +35,7 @@ public class PlayerMovement : MonoBehaviour
         {
             Debug.Log("JumpButtonUp");
         }
+
         if (Input.GetButtonDown("Jump") && animator.GetBool("IsJumping") == false)
         {
             Debug.Log("JumpButtonDown1");
@@ -52,6 +53,8 @@ public class PlayerMovement : MonoBehaviour
             animator.SetBool("CanDoubleJump", true);
             animator.SetBool("IsDoubleJumping", true);
         }
+        
+
         if (Input.GetButtonDown("Crouch"))
         {
             crouch = true;
@@ -94,7 +97,6 @@ public class PlayerMovement : MonoBehaviour
         else
             controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
         jump = 0;
-
     }
 
     private void LoadLevel()
