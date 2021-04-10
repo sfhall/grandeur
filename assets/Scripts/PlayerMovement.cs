@@ -106,7 +106,6 @@ public class PlayerMovement : MonoBehaviour
         for(int i = 0; i < 8; i++)
         {
             //Debug.Log(doors[i].transform.localPosition);
-            //subtract 10 for adjustment
             float compare = Mathf.Abs(player.transform.position.x - doors[i].transform.position.x);
             if(compare < give && compare > 0)
                 SceneManager.LoadScene(doorNames[i]);
