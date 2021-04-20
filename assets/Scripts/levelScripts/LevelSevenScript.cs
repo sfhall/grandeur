@@ -5,33 +5,17 @@ using UnityEngine;
 public class LevelSevenScript : MonoBehaviour
 {
     public GameObject[] gems;
+    public GameObject[] gameGems;
     public GameObject UIGems;
     
-    private int gather;
+    private int numGems;
 
     // Start is called before the first frame update
     void Start()
     {
-        gather = 0;
-    }
+        numGems = gems.Length;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    void pickupGems()
-    {
-
-    }
-
-    void OnTriggerEnter2D(Collider2D other){
-        if (gems != null){
-            if (gather == 0 ){
-                Destroy(gameObject);
-                gather++;
-            }
-        }
+        for(int i = 0; i < numGems; i++)
+            gems[i].SetActive(true);
     }
 }

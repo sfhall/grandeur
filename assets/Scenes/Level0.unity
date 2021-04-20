@@ -244,7 +244,7 @@ GameObject:
   - component: {fileID: 351775960}
   - component: {fileID: 351775961}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: BigDoor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -355,7 +355,7 @@ PrefabInstance:
     - target: {fileID: 9216806962612086366, guid: e8e4057ecea908c45b2bbb682195956e,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 9216806962612086366, guid: e8e4057ecea908c45b2bbb682195956e,
         type: 3}
@@ -1694,75 +1694,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1001 &1533506772
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 7856842127371660537, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7856842127371660537, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 19.220121
-      objectReference: {fileID: 0}
-    - target: {fileID: 7856842127371660537, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 11.653417
-      objectReference: {fileID: 0}
-    - target: {fileID: 7856842127371660537, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7856842127371660537, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7856842127371660537, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7856842127371660537, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7856842127371660537, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7856842127371660537, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7856842127371660537, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7856842127371660537, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7856842127371660543, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a,
-        type: 3}
-      propertyPath: m_Name
-      value: Key
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 321a4d7a6de76cb4cbd51b2d8bb37b9a, type: 3}
 --- !u!1 &1739024582
 GameObject:
   m_ObjectHideFlags: 0
@@ -1966,6 +1897,7 @@ GameObject:
   - component: {fileID: 2044828440}
   - component: {fileID: 2044828439}
   - component: {fileID: 2044828441}
+  - component: {fileID: 2044828442}
   m_Layer: 0
   m_Name: background
   m_TagString: Untagged
@@ -2039,7 +1971,7 @@ Transform:
   - {fileID: 853982172}
   - {fileID: 1085295773}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!60 &2044828441
 PolygonCollider2D:
@@ -2070,6 +2002,29 @@ PolygonCollider2D:
       - {x: -22, y: -5}
       - {x: 38.5, y: -5}
       - {x: 38.5, y: 5}
+--- !u!114 &2044828442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2044828438}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 972c5caa06f4cca4087ab2731b0f5d1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  doors:
+  - {fileID: 521155712}
+  - {fileID: 1739024582}
+  - {fileID: 859324227}
+  - {fileID: 1264768547}
+  - {fileID: 1403935362}
+  - {fileID: 1235351738}
+  - {fileID: 1150638906}
+  - {fileID: 704315642}
+  player: {fileID: 1336439657}
+  give: 4
 --- !u!1001 &7151867093316959260
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2194,7 +2149,7 @@ PrefabInstance:
     - target: {fileID: 8295394061412348146, guid: 3f9d6446ad65ba94eb32794934e1dd9a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8295394061412348146, guid: 3f9d6446ad65ba94eb32794934e1dd9a,
         type: 3}
