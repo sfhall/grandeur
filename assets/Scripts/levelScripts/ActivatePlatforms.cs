@@ -25,7 +25,16 @@ public class ActivatePlatforms : MonoBehaviour
     void Update()
     {
         if(!leverOn && Input.GetButtonDown("Enter"))
+        {
             activateLever();
+            lever.transform.Rotate(0.0f, 180.0f, 0f);
+            leverOn = true;
+        }
+        else if(leverOn && Input.GetButtonDown("Enter"))
+        {
+            lever.transform.Rotate(0.0f, 180.0f, 0f);
+            leverOn = false;
+        }
 
         return;
     }

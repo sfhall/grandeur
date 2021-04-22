@@ -13,6 +13,9 @@ public class PlayerKeys : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //PlayerData data = GetComponent<PlayerData>();
+        //numKeys = data.numKeys;
+        
         for (int i = 0; i < 8; i++){
             childKeys[i] = UIKeyHolder.transform.GetChild(i).gameObject;
         }
@@ -26,5 +29,10 @@ public class PlayerKeys : MonoBehaviour
             numKeys++;
         for(int i = 0; i < numKeys; i++)
             childKeys[i].SetActive(true);
+    }
+
+    public int getKeys()
+    {
+        return numKeys;
     }
 }

@@ -7,13 +7,12 @@ public class LevelSevenScript : MonoBehaviour
     public GameObject[] gems;
     public GameObject[] gameGems;
     public GameObject UIGems;
+    public GameObject player;
     
-    private int numGems;
-
     // Start is called before the first frame update
     void Start()
     {
-        numGems = gems.Length;
+        int numGems = gems.Length;
 
         for(int i = 0; i < numGems; i++)
             gems[i].SetActive(true);
