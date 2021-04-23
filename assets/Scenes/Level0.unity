@@ -2000,7 +2000,7 @@ PolygonCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2044828438}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
@@ -2055,7 +2055,7 @@ PrefabInstance:
     - target: {fileID: 7151867092646096623, guid: 2ae2c4c1cf6258b41adbed3fc1156949,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.5570736
+      value: -0.0809679
       objectReference: {fileID: 0}
     - target: {fileID: 7151867092646096623, guid: 2ae2c4c1cf6258b41adbed3fc1156949,
         type: 3}

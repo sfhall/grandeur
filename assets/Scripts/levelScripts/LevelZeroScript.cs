@@ -25,8 +25,9 @@ public class LevelZeroScript : MonoBehaviour
         for(int i = 0; i < 8; i++)
         {
             //Debug.Log(doors[i].transform.localPosition);
-            float compare = Mathf.Abs(player.transform.position.x - doors[i].transform.position.x);
-            if(compare < give && compare > 0)
+            float compareX = Mathf.Abs(player.transform.position.x - doors[i].transform.position.x);
+            float compareY = Mathf.Abs(player.transform.position.y - doors[i].transform.position.y);
+            if ((compareX < give && compareX > 0) && (compareY < give && compareY > 0))
                 SceneManager.LoadScene(doorNames[i]);
         }
         return;

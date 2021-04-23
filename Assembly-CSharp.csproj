@@ -67,20 +67,20 @@
     <Compile Include="Assets/Scripts/Keys/PlayerKeys.cs" />
     <Compile Include="Assets/Scripts/gameMenu.cs" />
     <Compile Include="Assets/Scripts/levelScripts/ActivatePlatforms.cs" />
-    <Compile Include="Assets/LevelSeven.cs" />
+    <Compile Include="Assets/Scripts/LevelSeven.cs" />
     <Compile Include="Assets/Scripts/Weapon.cs" />
     <Compile Include="Assets/Scripts/MainMenu.cs" />
     <Compile Include="Assets/Scripts/DashMove.cs" />
-    <Compile Include="Assets/ShowInstructions.cs" />
+    <Compile Include="Assets/Scripts/ShowInstructions.cs" />
     <Compile Include="Assets/Scripts/Bullet.cs" />
     <Compile Include="Assets/Scripts/PlayerData.cs" />
-    <Compile Include="Assets/Boss_Run.cs" />
-    <Compile Include="Assets/Boss.cs" />
-    <Compile Include="Assets/BossWeapon.cs" />
-    <Compile Include="Assets/PlayerHealth.cs" />
-    <Compile Include="Assets/BossHealth.cs" />
-    <Compile Include="Assets/Boss_Enrage.cs" />
-    <Compile Include="Assets/HealthBar.cs" />
+    <Compile Include="Assets/Scripts/Boss_Run.cs" />
+    <Compile Include="Assets/Scripts/Boss.cs" />
+    <Compile Include="Assets/Scripts/BossWeapon.cs" />
+    <Compile Include="Assets/Scripts/PlayerHealth.cs" />
+    <Compile Include="Assets/Scripts/BossHealth.cs" />
+    <Compile Include="Assets/Scripts/Boss_Enrage.cs" />
+    <Compile Include="Assets/Scripts/HealthBar.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
@@ -88,7 +88,10 @@
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" />
+     <None Include="Assets/Art/opp5_castle_tiles2/license cc0 - public domain.txt" />
+     <None Include="Assets/Art/opp5_castle_tiles2/readme.txt" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets/Art/opp5_castle_tiles2/environment/tiles/readme guides IMPORTANT.txt" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
      <None Include="Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" />
