@@ -2656,3 +2656,1251 @@ System memory in use after: 173.8 MB.
 Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2028.
 Total: 2.217167 ms (FindLiveObjects: 0.225122 ms CreateObjectMapping: 0.091987 ms MarkObjects: 1.875465 ms  DeleteObjects: 0.023319 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003811 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.594 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1335 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.2 MB.
+System memory in use after: 173.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2030.
+Total: 4.805003 ms (FindLiveObjects: 0.564307 ms CreateObjectMapping: 0.234267 ms MarkObjects: 3.971518 ms  DeleteObjects: 0.031536 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008274 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.337 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1335 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.7 MB.
+System memory in use after: 173.8 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2032.
+Total: 2.320182 ms (FindLiveObjects: 0.203024 ms CreateObjectMapping: 0.101901 ms MarkObjects: 1.987669 ms  DeleteObjects: 0.025814 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1024.847863 seconds.
+  path: Assets/Scenes/Level5.unity
+  artifactKey: Guid(cc1f52669006bcf40aa80ff6b237e757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level5.unity using Guid(cc1f52669006bcf40aa80ff6b237e757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b07af993facf2090f82454cd7cd3c058') in 0.034304 seconds
+  Import took 0.039803 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009307 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.828 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1335 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.0 MB.
+System memory in use after: 174.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2034.
+Total: 4.360506 ms (FindLiveObjects: 0.525596 ms CreateObjectMapping: 0.090841 ms MarkObjects: 3.551189 ms  DeleteObjects: 0.190692 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 594.287617 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_00.gif
+  artifactKey: Guid(5029bf06c59bc477a9880c2cfd50619d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_00.gif using Guid(5029bf06c59bc477a9880c2cfd50619d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0598b3b5472e4027387933a09344c5b9') in 0.294781 seconds
+  Import took 0.442724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.706526 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_01.gif
+  artifactKey: Guid(f0b93b37f3dbc497699cfa04c37d32cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_01.gif using Guid(f0b93b37f3dbc497699cfa04c37d32cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e9f09d9cd1bb44a00f042bdfedcfcf3') in 0.019125 seconds
+  Import took 0.023623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019723 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_01.gif
+  artifactKey: Guid(f0b93b37f3dbc497699cfa04c37d32cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_01.gif using Guid(f0b93b37f3dbc497699cfa04c37d32cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e9f09d9cd1bb44a00f042bdfedcfcf3') in 0.011405 seconds
+  Import took 0.014510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.492138 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_02.gif
+  artifactKey: Guid(eabca452c26cf488e87a42a926288433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_02.gif using Guid(eabca452c26cf488e87a42a926288433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ff8abf662979801721a59065752df9') in 0.015068 seconds
+  Import took 0.019196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011774 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_02.gif
+  artifactKey: Guid(eabca452c26cf488e87a42a926288433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_02.gif using Guid(eabca452c26cf488e87a42a926288433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ff8abf662979801721a59065752df9') in 0.014912 seconds
+  Import took 0.018476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.178570 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_03.gif
+  artifactKey: Guid(5934106e47a7244a59b39f6506cfef70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_03.gif using Guid(5934106e47a7244a59b39f6506cfef70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d8f0aafeae59e7a0e8816b12c67aaae') in 0.020657 seconds
+  Import took 0.028852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019784 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_03.gif
+  artifactKey: Guid(5934106e47a7244a59b39f6506cfef70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_03.gif using Guid(5934106e47a7244a59b39f6506cfef70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d8f0aafeae59e7a0e8816b12c67aaae') in 0.017319 seconds
+  Import took 0.022144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.775800 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_04.gif
+  artifactKey: Guid(3e3c60a9927974de2839c959ef2f6766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_04.gif using Guid(3e3c60a9927974de2839c959ef2f6766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbdee516d75c835e6a3119ca057bec39') in 0.016930 seconds
+  Import took 0.021033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008567 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_04.gif
+  artifactKey: Guid(3e3c60a9927974de2839c959ef2f6766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_04.gif using Guid(3e3c60a9927974de2839c959ef2f6766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbdee516d75c835e6a3119ca057bec39') in 0.015879 seconds
+  Import took 0.019034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.881658 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_05.gif
+  artifactKey: Guid(e62f03754c98048dba6c76b196b347c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_05.gif using Guid(e62f03754c98048dba6c76b196b347c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eeb9427d652237e1b9c1599496bbf6d') in 0.024405 seconds
+  Import took 0.030728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011855 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_05.gif
+  artifactKey: Guid(e62f03754c98048dba6c76b196b347c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_05.gif using Guid(e62f03754c98048dba6c76b196b347c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eeb9427d652237e1b9c1599496bbf6d') in 0.034421 seconds
+  Import took 0.039534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.149285 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_06.gif
+  artifactKey: Guid(0fc8804c4e1384e91843213a920d3069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_06.gif using Guid(0fc8804c4e1384e91843213a920d3069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56aac23ced4b35ad8bd8cd222549de8b') in 0.017704 seconds
+  Import took 0.022891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009283 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_06.gif
+  artifactKey: Guid(0fc8804c4e1384e91843213a920d3069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_06.gif using Guid(0fc8804c4e1384e91843213a920d3069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56aac23ced4b35ad8bd8cd222549de8b') in 0.013655 seconds
+  Import took 0.018313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.732215 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_07.gif
+  artifactKey: Guid(a5427ef136b51480aa9c69cc72ba2a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_07.gif using Guid(a5427ef136b51480aa9c69cc72ba2a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '161178bfb376b0fe49a812f87c76c11e') in 0.015575 seconds
+  Import took 0.021636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014570 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_07.gif
+  artifactKey: Guid(a5427ef136b51480aa9c69cc72ba2a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_07.gif using Guid(a5427ef136b51480aa9c69cc72ba2a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '161178bfb376b0fe49a812f87c76c11e') in 0.013813 seconds
+  Import took 0.017620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.967125 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_08.gif
+  artifactKey: Guid(2b6b2aab45e8b4a2ca6c4f72d8d82fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_08.gif using Guid(2b6b2aab45e8b4a2ca6c4f72d8d82fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efbc30aec3b6a86306fddab17dd1d930') in 0.015968 seconds
+  Import took 0.020680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008213 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_08.gif
+  artifactKey: Guid(2b6b2aab45e8b4a2ca6c4f72d8d82fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_08.gif using Guid(2b6b2aab45e8b4a2ca6c4f72d8d82fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efbc30aec3b6a86306fddab17dd1d930') in 0.014650 seconds
+  Import took 0.018524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.618988 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_09.gif
+  artifactKey: Guid(f2e130e13d1d84e268d4c4f7b2793608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_09.gif using Guid(f2e130e13d1d84e268d4c4f7b2793608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e384c6d11e94396a2a9ff35c803bafd0') in 0.017608 seconds
+  Import took 0.021828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005187 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_09.gif
+  artifactKey: Guid(f2e130e13d1d84e268d4c4f7b2793608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_09.gif using Guid(f2e130e13d1d84e268d4c4f7b2793608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e384c6d11e94396a2a9ff35c803bafd0') in 0.016427 seconds
+  Import took 0.019902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.489051 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_10.gif
+  artifactKey: Guid(04897e027674e410a8b3eb8899a08d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_10.gif using Guid(04897e027674e410a8b3eb8899a08d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def21a32d5c3523bcefda10561e8eb27') in 0.016301 seconds
+  Import took 0.021732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015911 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_10.gif
+  artifactKey: Guid(04897e027674e410a8b3eb8899a08d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_10.gif using Guid(04897e027674e410a8b3eb8899a08d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def21a32d5c3523bcefda10561e8eb27') in 0.014774 seconds
+  Import took 0.019599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.315412 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_11.gif
+  artifactKey: Guid(751dcd8fba7a6442f97e23f94a2792a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_11.gif using Guid(751dcd8fba7a6442f97e23f94a2792a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e42f689bddff301899ae874a94a9a3') in 0.012652 seconds
+  Import took 0.016461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010819 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_11.gif
+  artifactKey: Guid(751dcd8fba7a6442f97e23f94a2792a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_11.gif using Guid(751dcd8fba7a6442f97e23f94a2792a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e42f689bddff301899ae874a94a9a3') in 0.015384 seconds
+  Import took 0.020633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.194021 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_12.gif
+  artifactKey: Guid(04e9bceb555664916ae1808f2508a707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_12.gif using Guid(04e9bceb555664916ae1808f2508a707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9bffcae5085aadae7a6c1cbb85b946') in 0.012912 seconds
+  Import took 0.016332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010743 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_12.gif
+  artifactKey: Guid(04e9bceb555664916ae1808f2508a707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_12.gif using Guid(04e9bceb555664916ae1808f2508a707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9bffcae5085aadae7a6c1cbb85b946') in 0.014086 seconds
+  Import took 0.019115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.683426 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_13.gif
+  artifactKey: Guid(32a0c334bb3bc4eeab5472e06a067b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_13.gif using Guid(32a0c334bb3bc4eeab5472e06a067b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a610d1105126e41cf95b4b4627c3d43') in 0.013825 seconds
+  Import took 0.017993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015134 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_13.gif
+  artifactKey: Guid(32a0c334bb3bc4eeab5472e06a067b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_13.gif using Guid(32a0c334bb3bc4eeab5472e06a067b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a610d1105126e41cf95b4b4627c3d43') in 0.014990 seconds
+  Import took 0.019625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.989151 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_14.gif
+  artifactKey: Guid(6f000180e5042488d99f1cf26cdac978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_14.gif using Guid(6f000180e5042488d99f1cf26cdac978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dc0d1839d9e844b66e8bb2a4322ee8d') in 0.012243 seconds
+  Import took 0.015676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011190 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_14.gif
+  artifactKey: Guid(6f000180e5042488d99f1cf26cdac978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_14.gif using Guid(6f000180e5042488d99f1cf26cdac978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dc0d1839d9e844b66e8bb2a4322ee8d') in 0.013786 seconds
+  Import took 0.016873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.802110 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_15.gif
+  artifactKey: Guid(125cee2c8db8844f2b1954bdb5139ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_15.gif using Guid(125cee2c8db8844f2b1954bdb5139ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52f241a831b4b8a8beeb3480c34e6841') in 0.013548 seconds
+  Import took 0.017391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010545 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_15.gif
+  artifactKey: Guid(125cee2c8db8844f2b1954bdb5139ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_15.gif using Guid(125cee2c8db8844f2b1954bdb5139ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52f241a831b4b8a8beeb3480c34e6841') in 0.014309 seconds
+  Import took 0.018385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.952292 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_16.gif
+  artifactKey: Guid(356299d82f0ec4c35beef0f468a39622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_16.gif using Guid(356299d82f0ec4c35beef0f468a39622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8b56cbd5f8560d8eb20ebd677742dde') in 0.011875 seconds
+  Import took 0.015192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009623 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_16.gif
+  artifactKey: Guid(356299d82f0ec4c35beef0f468a39622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_16.gif using Guid(356299d82f0ec4c35beef0f468a39622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8b56cbd5f8560d8eb20ebd677742dde') in 0.033357 seconds
+  Import took 0.037184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.123081 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_17.gif
+  artifactKey: Guid(7ab92b7e53bb0422aa92eba31c7529f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_17.gif using Guid(7ab92b7e53bb0422aa92eba31c7529f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53251f7432dae67d0d638a085b8e7959') in 0.013979 seconds
+  Import took 0.018113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010926 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_17.gif
+  artifactKey: Guid(7ab92b7e53bb0422aa92eba31c7529f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_17.gif using Guid(7ab92b7e53bb0422aa92eba31c7529f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53251f7432dae67d0d638a085b8e7959') in 0.013113 seconds
+  Import took 0.016580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.855378 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_18.gif
+  artifactKey: Guid(3acf3762f7c824c348e95bc775ace175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_18.gif using Guid(3acf3762f7c824c348e95bc775ace175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b554e1536cc80ee25cf2e7869eb1b0b0') in 0.016242 seconds
+  Import took 0.020228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006799 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_18.gif
+  artifactKey: Guid(3acf3762f7c824c348e95bc775ace175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_18.gif using Guid(3acf3762f7c824c348e95bc775ace175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b554e1536cc80ee25cf2e7869eb1b0b0') in 0.017483 seconds
+  Import took 0.021465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.358363 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_19.gif
+  artifactKey: Guid(4f2e1abcbebd44eb39da421fd3718a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_19.gif using Guid(4f2e1abcbebd44eb39da421fd3718a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f88fe00cc6d858ffc21f6989c8fb508a') in 0.013113 seconds
+  Import took 0.016643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008873 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_19.gif
+  artifactKey: Guid(4f2e1abcbebd44eb39da421fd3718a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_19.gif using Guid(4f2e1abcbebd44eb39da421fd3718a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f88fe00cc6d858ffc21f6989c8fb508a') in 0.013230 seconds
+  Import took 0.016706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.464931 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_20.gif
+  artifactKey: Guid(7be0813f3a5f44fdc8a003c276a64cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_20.gif using Guid(7be0813f3a5f44fdc8a003c276a64cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b94c57a369bec19a5e1b5be74fc2253') in 0.014026 seconds
+  Import took 0.017957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011581 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_20.gif
+  artifactKey: Guid(7be0813f3a5f44fdc8a003c276a64cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_20.gif using Guid(7be0813f3a5f44fdc8a003c276a64cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b94c57a369bec19a5e1b5be74fc2253') in 0.014436 seconds
+  Import took 0.019951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.240831 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_21.gif
+  artifactKey: Guid(8fa2103f09f3347a59e438747eaa08be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_21.gif using Guid(8fa2103f09f3347a59e438747eaa08be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4340e406ee3d7ebf9a05db2a44a62c91') in 0.012900 seconds
+  Import took 0.016343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011542 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_21.gif
+  artifactKey: Guid(8fa2103f09f3347a59e438747eaa08be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_21.gif using Guid(8fa2103f09f3347a59e438747eaa08be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4340e406ee3d7ebf9a05db2a44a62c91') in 0.013338 seconds
+  Import took 0.016940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.995949 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_22.gif
+  artifactKey: Guid(2c12f13d7f93549f69cef45e9c4ddb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_22.gif using Guid(2c12f13d7f93549f69cef45e9c4ddb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a49e7912fe2082e4b5db50b5399e5a8') in 0.012686 seconds
+  Import took 0.016678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009703 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_22.gif
+  artifactKey: Guid(2c12f13d7f93549f69cef45e9c4ddb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_22.gif using Guid(2c12f13d7f93549f69cef45e9c4ddb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a49e7912fe2082e4b5db50b5399e5a8') in 0.013665 seconds
+  Import took 0.016975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.490957 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_23.gif
+  artifactKey: Guid(2b94c4b9f799e4b29bbc7cdca868c14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_23.gif using Guid(2b94c4b9f799e4b29bbc7cdca868c14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff2948a6f86718117449db0840feba02') in 0.016206 seconds
+  Import took 0.020253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007225 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_23.gif
+  artifactKey: Guid(2b94c4b9f799e4b29bbc7cdca868c14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_23.gif using Guid(2b94c4b9f799e4b29bbc7cdca868c14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff2948a6f86718117449db0840feba02') in 0.014403 seconds
+  Import took 0.017535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.258276 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_24.gif
+  artifactKey: Guid(a86ae95894749407fb36dbf32a076711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_24.gif using Guid(a86ae95894749407fb36dbf32a076711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97a48393ce49e8de123258d0a90b2ed') in 0.017512 seconds
+  Import took 0.022388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006407 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_24.gif
+  artifactKey: Guid(a86ae95894749407fb36dbf32a076711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_24.gif using Guid(a86ae95894749407fb36dbf32a076711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97a48393ce49e8de123258d0a90b2ed') in 0.017072 seconds
+  Import took 0.021198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.311301 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_25.gif
+  artifactKey: Guid(8d5b5b92c586f4bb3a4d9cf3b18c83d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_25.gif using Guid(8d5b5b92c586f4bb3a4d9cf3b18c83d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30765a9daab720ccda205e3647036fd8') in 0.014096 seconds
+  Import took 0.018619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016702 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_25.gif
+  artifactKey: Guid(8d5b5b92c586f4bb3a4d9cf3b18c83d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_25.gif using Guid(8d5b5b92c586f4bb3a4d9cf3b18c83d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30765a9daab720ccda205e3647036fd8') in 0.013945 seconds
+  Import took 0.018768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.245792 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_26.gif
+  artifactKey: Guid(7854c587364f0452980f76205f5bb1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_26.gif using Guid(7854c587364f0452980f76205f5bb1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7799a949a232c163b2bb77266f8b2367') in 0.031489 seconds
+  Import took 0.036587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018226 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_26.gif
+  artifactKey: Guid(7854c587364f0452980f76205f5bb1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_26.gif using Guid(7854c587364f0452980f76205f5bb1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7799a949a232c163b2bb77266f8b2367') in 0.016401 seconds
+  Import took 0.022500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.992137 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_27.gif
+  artifactKey: Guid(011951fcdc7b7418fa2180999c7b1938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_27.gif using Guid(011951fcdc7b7418fa2180999c7b1938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be80764876d89a0a091cc0eddc65e10') in 0.018452 seconds
+  Import took 0.023171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010602 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_27.gif
+  artifactKey: Guid(011951fcdc7b7418fa2180999c7b1938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_27.gif using Guid(011951fcdc7b7418fa2180999c7b1938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be80764876d89a0a091cc0eddc65e10') in 0.033440 seconds
+  Import took 0.040178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.235765 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_28.gif
+  artifactKey: Guid(7371fca4f5e014b8eaad50edcafbe9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_28.gif using Guid(7371fca4f5e014b8eaad50edcafbe9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f0d8c4fecaed42be49dea3927b0666') in 0.015928 seconds
+  Import took 0.019682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010401 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_28.gif
+  artifactKey: Guid(7371fca4f5e014b8eaad50edcafbe9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_28.gif using Guid(7371fca4f5e014b8eaad50edcafbe9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f0d8c4fecaed42be49dea3927b0666') in 0.017930 seconds
+  Import took 0.023116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.211190 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_29.gif
+  artifactKey: Guid(4af251fa3249c4b2e9882d925bfffe8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_29.gif using Guid(4af251fa3249c4b2e9882d925bfffe8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2430b152cc26ebdce65ed2ed61947086') in 0.013695 seconds
+  Import took 0.017274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008741 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_29.gif
+  artifactKey: Guid(4af251fa3249c4b2e9882d925bfffe8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_29.gif using Guid(4af251fa3249c4b2e9882d925bfffe8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2430b152cc26ebdce65ed2ed61947086') in 0.014211 seconds
+  Import took 0.018385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.059490 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_30.gif
+  artifactKey: Guid(2564383bf5db043c7a6c45af71c9db6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_30.gif using Guid(2564383bf5db043c7a6c45af71c9db6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4795cc165725614b49f683b773ce45e8') in 0.016025 seconds
+  Import took 0.022004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015373 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_30.gif
+  artifactKey: Guid(2564383bf5db043c7a6c45af71c9db6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_30.gif using Guid(2564383bf5db043c7a6c45af71c9db6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4795cc165725614b49f683b773ce45e8') in 0.014130 seconds
+  Import took 0.018557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.628707 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_31.gif
+  artifactKey: Guid(d5b930d4e84604aebbd7cd1ca4440536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_31.gif using Guid(d5b930d4e84604aebbd7cd1ca4440536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507d29c3a1ebe8a7625511ca2eb1c084') in 0.018598 seconds
+  Import took 0.022863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030629 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_31.gif
+  artifactKey: Guid(d5b930d4e84604aebbd7cd1ca4440536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_31.gif using Guid(d5b930d4e84604aebbd7cd1ca4440536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507d29c3a1ebe8a7625511ca2eb1c084') in 0.016786 seconds
+  Import took 0.021209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.982244 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_32.gif
+  artifactKey: Guid(ff490a9018869470ab7cb49b91205581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_32.gif using Guid(ff490a9018869470ab7cb49b91205581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcedef2df54867931e0baa5be1e466d6') in 0.017192 seconds
+  Import took 0.021503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008737 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_32.gif
+  artifactKey: Guid(ff490a9018869470ab7cb49b91205581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_32.gif using Guid(ff490a9018869470ab7cb49b91205581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcedef2df54867931e0baa5be1e466d6') in 0.017594 seconds
+  Import took 0.022357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.940226 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_33.gif
+  artifactKey: Guid(d5b7544f9e7fa4b83b4ed99c79a9910b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_33.gif using Guid(d5b7544f9e7fa4b83b4ed99c79a9910b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa777d48bd95a38d1f8a7fe104403153') in 0.015268 seconds
+  Import took 0.019606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010161 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_33.gif
+  artifactKey: Guid(d5b7544f9e7fa4b83b4ed99c79a9910b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_33.gif using Guid(d5b7544f9e7fa4b83b4ed99c79a9910b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa777d48bd95a38d1f8a7fe104403153') in 0.013610 seconds
+  Import took 0.017424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.597289 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_34.gif
+  artifactKey: Guid(6d4ed728e62914030b11f949f810729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_34.gif using Guid(6d4ed728e62914030b11f949f810729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba16be5b42252c553e2078e769d7d0ec') in 0.021222 seconds
+  Import took 0.025462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005117 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_34.gif
+  artifactKey: Guid(6d4ed728e62914030b11f949f810729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_34.gif using Guid(6d4ed728e62914030b11f949f810729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba16be5b42252c553e2078e769d7d0ec') in 0.019215 seconds
+  Import took 0.022585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.880226 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_35.gif
+  artifactKey: Guid(c10dc01326b0c4250bbb843f77588938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_35.gif using Guid(c10dc01326b0c4250bbb843f77588938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '243aac69dfb193cc5caecafdece64758') in 0.016534 seconds
+  Import took 0.020853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007885 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_35.gif
+  artifactKey: Guid(c10dc01326b0c4250bbb843f77588938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_35.gif using Guid(c10dc01326b0c4250bbb843f77588938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '243aac69dfb193cc5caecafdece64758') in 0.014801 seconds
+  Import took 0.018276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.130686 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_36.gif
+  artifactKey: Guid(989a5fb393e164f3aacc698bc59f808d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_36.gif using Guid(989a5fb393e164f3aacc698bc59f808d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4393de2cb5d3a09d703acc8aab6d1dd7') in 0.016131 seconds
+  Import took 0.021082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008424 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_36.gif
+  artifactKey: Guid(989a5fb393e164f3aacc698bc59f808d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_36.gif using Guid(989a5fb393e164f3aacc698bc59f808d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4393de2cb5d3a09d703acc8aab6d1dd7') in 0.016194 seconds
+  Import took 0.020402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.020902 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_37.gif
+  artifactKey: Guid(cfe794c94c52a4f3392ce1dc87201fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_37.gif using Guid(cfe794c94c52a4f3392ce1dc87201fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac04bf0535df8af90c3557918ffc7eb') in 0.018430 seconds
+  Import took 0.023455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008336 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_37.gif
+  artifactKey: Guid(cfe794c94c52a4f3392ce1dc87201fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_37.gif using Guid(cfe794c94c52a4f3392ce1dc87201fa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac04bf0535df8af90c3557918ffc7eb') in 0.014746 seconds
+  Import took 0.018972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.909310 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_38.gif
+  artifactKey: Guid(c7bc921179d634c5a857fce60fc7a560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_38.gif using Guid(c7bc921179d634c5a857fce60fc7a560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad23e1d90db1b403bb925203a491e84') in 0.012943 seconds
+  Import took 0.016519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009082 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_38.gif
+  artifactKey: Guid(c7bc921179d634c5a857fce60fc7a560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_38.gif using Guid(c7bc921179d634c5a857fce60fc7a560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad23e1d90db1b403bb925203a491e84') in 0.012170 seconds
+  Import took 0.016054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.939728 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_39.gif
+  artifactKey: Guid(896a75ae33d0c4ecbb29426463483ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_39.gif using Guid(896a75ae33d0c4ecbb29426463483ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cfa0dfdda9b4f41a2195a36bc619658') in 0.019648 seconds
+  Import took 0.024257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013960 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_39.gif
+  artifactKey: Guid(896a75ae33d0c4ecbb29426463483ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_39.gif using Guid(896a75ae33d0c4ecbb29426463483ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cfa0dfdda9b4f41a2195a36bc619658') in 0.011471 seconds
+  Import took 0.015725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.951456 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_40.gif
+  artifactKey: Guid(179421f90773f45668c174c6ec953879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_40.gif using Guid(179421f90773f45668c174c6ec953879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51408128daacaade1905c6cc904cecfc') in 0.014008 seconds
+  Import took 0.017702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007841 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_40.gif
+  artifactKey: Guid(179421f90773f45668c174c6ec953879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_40.gif using Guid(179421f90773f45668c174c6ec953879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51408128daacaade1905c6cc904cecfc') in 0.017124 seconds
+  Import took 0.021090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.970397 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_41.gif
+  artifactKey: Guid(7c499419247004360a95d37c59acc510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_41.gif using Guid(7c499419247004360a95d37c59acc510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c601bddb030f1d37ebe06cca0d7766a') in 0.016203 seconds
+  Import took 0.021014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014287 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_41.gif
+  artifactKey: Guid(7c499419247004360a95d37c59acc510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_41.gif using Guid(7c499419247004360a95d37c59acc510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c601bddb030f1d37ebe06cca0d7766a') in 0.014312 seconds
+  Import took 0.018891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.108587 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_42.gif
+  artifactKey: Guid(521dfd9a4bcec4acdbed7fd647f774c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_42.gif using Guid(521dfd9a4bcec4acdbed7fd647f774c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c41a5959bfedfeb407215fee790992') in 0.016474 seconds
+  Import took 0.021144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010616 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_42.gif
+  artifactKey: Guid(521dfd9a4bcec4acdbed7fd647f774c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_42.gif using Guid(521dfd9a4bcec4acdbed7fd647f774c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c41a5959bfedfeb407215fee790992') in 0.016092 seconds
+  Import took 0.021411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.405232 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_43.gif
+  artifactKey: Guid(12ccefc7c18614f3f83020f4cc0e9674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_43.gif using Guid(12ccefc7c18614f3f83020f4cc0e9674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b33e4e5b310dbf099eb657761af01b38') in 0.016919 seconds
+  Import took 0.022167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011481 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_43.gif
+  artifactKey: Guid(12ccefc7c18614f3f83020f4cc0e9674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_43.gif using Guid(12ccefc7c18614f3f83020f4cc0e9674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b33e4e5b310dbf099eb657761af01b38') in 0.021615 seconds
+  Import took 0.029132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.799458 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_44.gif
+  artifactKey: Guid(08ba5a1a494174e4fb673503dba568b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_44.gif using Guid(08ba5a1a494174e4fb673503dba568b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030e5ea2a4fa553ab7701ed5c9713777') in 0.016079 seconds
+  Import took 0.021856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009070 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_44.gif
+  artifactKey: Guid(08ba5a1a494174e4fb673503dba568b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_44.gif using Guid(08ba5a1a494174e4fb673503dba568b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030e5ea2a4fa553ab7701ed5c9713777') in 0.014261 seconds
+  Import took 0.018058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.559280 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_45.gif
+  artifactKey: Guid(8d5ed210d7dfd4129ac93f73cab8802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_45.gif using Guid(8d5ed210d7dfd4129ac93f73cab8802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fff0d5c5ac6d326b1f0b015542c01ac') in 0.015656 seconds
+  Import took 0.019999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008687 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_45.gif
+  artifactKey: Guid(8d5ed210d7dfd4129ac93f73cab8802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_45.gif using Guid(8d5ed210d7dfd4129ac93f73cab8802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fff0d5c5ac6d326b1f0b015542c01ac') in 0.013107 seconds
+  Import took 0.016551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.788233 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_46.gif
+  artifactKey: Guid(bcdf9c4f92ee6402892e9712e3200bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_46.gif using Guid(bcdf9c4f92ee6402892e9712e3200bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47dcc1679070eaec826d14951a9c1d9a') in 0.018136 seconds
+  Import took 0.023191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004920 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_46.gif
+  artifactKey: Guid(bcdf9c4f92ee6402892e9712e3200bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_46.gif using Guid(bcdf9c4f92ee6402892e9712e3200bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47dcc1679070eaec826d14951a9c1d9a') in 0.018723 seconds
+  Import took 0.022639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.088529 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_47.gif
+  artifactKey: Guid(15fc08950ef854bf7a8bf2762b90ec23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_47.gif using Guid(15fc08950ef854bf7a8bf2762b90ec23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699ef61750fd6a3587de7a2ba977571a') in 0.016147 seconds
+  Import took 0.020627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012170 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_47.gif
+  artifactKey: Guid(15fc08950ef854bf7a8bf2762b90ec23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_47.gif using Guid(15fc08950ef854bf7a8bf2762b90ec23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699ef61750fd6a3587de7a2ba977571a') in 0.011611 seconds
+  Import took 0.015618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.676459 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_48.gif
+  artifactKey: Guid(05f2c4b38a5f64c38b828edee7d8753c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_48.gif using Guid(05f2c4b38a5f64c38b828edee7d8753c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '408a23baad8047d7444d4d079bae0bc3') in 0.015916 seconds
+  Import took 0.020475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017131 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_48.gif
+  artifactKey: Guid(05f2c4b38a5f64c38b828edee7d8753c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_48.gif using Guid(05f2c4b38a5f64c38b828edee7d8753c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '408a23baad8047d7444d4d079bae0bc3') in 0.018071 seconds
+  Import took 0.022232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.866100 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_49.gif
+  artifactKey: Guid(e9527bc62ca614733a93acacb76d5063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_49.gif using Guid(e9527bc62ca614733a93acacb76d5063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56811279703ec1c00b2e2f9b0b7cc83') in 0.015302 seconds
+  Import took 0.018795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008312 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_49.gif
+  artifactKey: Guid(e9527bc62ca614733a93acacb76d5063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_49.gif using Guid(e9527bc62ca614733a93acacb76d5063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56811279703ec1c00b2e2f9b0b7cc83') in 0.013724 seconds
+  Import took 0.017392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.234836 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_50.gif
+  artifactKey: Guid(bc4718765d4474024b964bb4493c9254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_50.gif using Guid(bc4718765d4474024b964bb4493c9254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '435fa4e0f82f4889cbdd26bf2674baaa') in 0.023919 seconds
+  Import took 0.029028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032589 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_50.gif
+  artifactKey: Guid(bc4718765d4474024b964bb4493c9254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_50.gif using Guid(bc4718765d4474024b964bb4493c9254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '435fa4e0f82f4889cbdd26bf2674baaa') in 0.015153 seconds
+  Import took 0.019402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.225994 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_51.gif
+  artifactKey: Guid(cd639d5e5b4b848a1a0b88f7d47a396e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_51.gif using Guid(cd639d5e5b4b848a1a0b88f7d47a396e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfa749227362749944db3473df250312') in 0.017749 seconds
+  Import took 0.021994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004668 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_51.gif
+  artifactKey: Guid(cd639d5e5b4b848a1a0b88f7d47a396e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_51.gif using Guid(cd639d5e5b4b848a1a0b88f7d47a396e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfa749227362749944db3473df250312') in 0.018142 seconds
+  Import took 0.021557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.603573 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_52.gif
+  artifactKey: Guid(7d47be7a9300a45f4a0827bb579effd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_52.gif using Guid(7d47be7a9300a45f4a0827bb579effd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f31ecd0cc163bfd3392e2c775b438ee') in 0.016370 seconds
+  Import took 0.021321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008942 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_52.gif
+  artifactKey: Guid(7d47be7a9300a45f4a0827bb579effd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_52.gif using Guid(7d47be7a9300a45f4a0827bb579effd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f31ecd0cc163bfd3392e2c775b438ee') in 0.016931 seconds
+  Import took 0.022115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.425192 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_53.gif
+  artifactKey: Guid(1d4eccfb8e99d4c0cbd90142ac343973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_53.gif using Guid(1d4eccfb8e99d4c0cbd90142ac343973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13ddc8f074f8225d8804b7f3b08e764') in 0.014606 seconds
+  Import took 0.018699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011044 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_53.gif
+  artifactKey: Guid(1d4eccfb8e99d4c0cbd90142ac343973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_53.gif using Guid(1d4eccfb8e99d4c0cbd90142ac343973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13ddc8f074f8225d8804b7f3b08e764') in 0.013006 seconds
+  Import took 0.016776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.778511 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_54.gif
+  artifactKey: Guid(67cbcec2f36e742c7b8e6b523e4fe391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_54.gif using Guid(67cbcec2f36e742c7b8e6b523e4fe391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6015b33df408144c302c6e379a837c7') in 0.015251 seconds
+  Import took 0.019071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009353 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_54.gif
+  artifactKey: Guid(67cbcec2f36e742c7b8e6b523e4fe391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_54.gif using Guid(67cbcec2f36e742c7b8e6b523e4fe391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6015b33df408144c302c6e379a837c7') in 0.015844 seconds
+  Import took 0.019884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.595554 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_55.gif
+  artifactKey: Guid(a566cd1ad51c04f8e93d23a1b7bc88c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_55.gif using Guid(a566cd1ad51c04f8e93d23a1b7bc88c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3687b7cce74b30ff2058d381d788e2e') in 0.017736 seconds
+  Import took 0.022117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013533 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_55.gif
+  artifactKey: Guid(a566cd1ad51c04f8e93d23a1b7bc88c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_55.gif using Guid(a566cd1ad51c04f8e93d23a1b7bc88c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3687b7cce74b30ff2058d381d788e2e') in 0.015142 seconds
+  Import took 0.019563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.901153 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_56.gif
+  artifactKey: Guid(f1a3af4993514479aba18fc0078ca543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_56.gif using Guid(f1a3af4993514479aba18fc0078ca543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a64f3e031fc78c2857dfd3c014da90') in 0.030038 seconds
+  Import took 0.033776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016595 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_56.gif
+  artifactKey: Guid(f1a3af4993514479aba18fc0078ca543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_56.gif using Guid(f1a3af4993514479aba18fc0078ca543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a64f3e031fc78c2857dfd3c014da90') in 0.015990 seconds
+  Import took 0.020129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.435481 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_57.gif
+  artifactKey: Guid(3845abcaec23a41d79cf51a0f670e496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_57.gif using Guid(3845abcaec23a41d79cf51a0f670e496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7403647af70b956d52552500ccdf16e5') in 0.016950 seconds
+  Import took 0.021493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011665 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_57.gif
+  artifactKey: Guid(3845abcaec23a41d79cf51a0f670e496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_57.gif using Guid(3845abcaec23a41d79cf51a0f670e496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7403647af70b956d52552500ccdf16e5') in 0.011994 seconds
+  Import took 0.015555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.103991 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_58.gif
+  artifactKey: Guid(76a1f29a35f964409a5f85afb5a0408b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_58.gif using Guid(76a1f29a35f964409a5f85afb5a0408b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae4dd3a0f97c143c66387564c65caf7') in 0.013001 seconds
+  Import took 0.017489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014240 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_58.gif
+  artifactKey: Guid(76a1f29a35f964409a5f85afb5a0408b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_58.gif using Guid(76a1f29a35f964409a5f85afb5a0408b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae4dd3a0f97c143c66387564c65caf7') in 0.013302 seconds
+  Import took 0.017685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.308685 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_59.gif
+  artifactKey: Guid(62cbf28a4799646a1a7f75229ba248e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_59.gif using Guid(62cbf28a4799646a1a7f75229ba248e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d1b817725dc404a87440ba059191b54') in 0.017473 seconds
+  Import took 0.022943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013719 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_59.gif
+  artifactKey: Guid(62cbf28a4799646a1a7f75229ba248e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_59.gif using Guid(62cbf28a4799646a1a7f75229ba248e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d1b817725dc404a87440ba059191b54') in 0.015175 seconds
+  Import took 0.020415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.503975 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_60.gif
+  artifactKey: Guid(92473fd076b1e4cd594fec548f3efc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_60.gif using Guid(92473fd076b1e4cd594fec548f3efc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7544fe1c5567fcfdf9ba9b4f94c41d8b') in 0.033433 seconds
+  Import took 0.037795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009600 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_60.gif
+  artifactKey: Guid(92473fd076b1e4cd594fec548f3efc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_60.gif using Guid(92473fd076b1e4cd594fec548f3efc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7544fe1c5567fcfdf9ba9b4f94c41d8b') in 0.048584 seconds
+  Import took 0.052709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.613962 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_61.gif
+  artifactKey: Guid(02c71579fe7d144cab0e4802b563b1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_61.gif using Guid(02c71579fe7d144cab0e4802b563b1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f4de50848881d086004ec62396b15d') in 0.015074 seconds
+  Import took 0.019512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010065 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_61.gif
+  artifactKey: Guid(02c71579fe7d144cab0e4802b563b1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_61.gif using Guid(02c71579fe7d144cab0e4802b563b1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f4de50848881d086004ec62396b15d') in 0.015822 seconds
+  Import took 0.020057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.550774 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_62.gif
+  artifactKey: Guid(6ceaf31f5454749a793d8eff5c91b54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_62.gif using Guid(6ceaf31f5454749a793d8eff5c91b54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add1fce4084d4094fc406617b43fa081') in 0.015394 seconds
+  Import took 0.019840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006680 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_62.gif
+  artifactKey: Guid(6ceaf31f5454749a793d8eff5c91b54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_62.gif using Guid(6ceaf31f5454749a793d8eff5c91b54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add1fce4084d4094fc406617b43fa081') in 0.013811 seconds
+  Import took 0.017577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.536494 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_63.gif
+  artifactKey: Guid(e8d6f333f75f64a1eaafe586da513218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_63.gif using Guid(e8d6f333f75f64a1eaafe586da513218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4ece52a1f5e1e09d35be6c6dd61181') in 0.014046 seconds
+  Import took 0.017934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010239 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_63.gif
+  artifactKey: Guid(e8d6f333f75f64a1eaafe586da513218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_63.gif using Guid(e8d6f333f75f64a1eaafe586da513218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4ece52a1f5e1e09d35be6c6dd61181') in 0.015490 seconds
+  Import took 0.019927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.393377 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_64.gif
+  artifactKey: Guid(9621d740d939149568f2953ec0295973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_64.gif using Guid(9621d740d939149568f2953ec0295973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699f57e686bb84bdea87676278b9313e') in 0.015985 seconds
+  Import took 0.019610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009076 seconds.
+  path: Assets/Art/Level5 Backgrounds/level 5 animated background/frame_64.gif
+  artifactKey: Guid(9621d740d939149568f2953ec0295973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level 5 animated background/frame_64.gif using Guid(9621d740d939149568f2953ec0295973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699f57e686bb84bdea87676278b9313e') in 0.014357 seconds
+  Import took 0.018925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.062166 seconds.
+  path: Assets/Art/Level5 Backgrounds/level5aniBackground
+  artifactKey: Guid(579885f23d4da426397161cc9ca65214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Level5 Backgrounds/level5aniBackground using Guid(579885f23d4da426397161cc9ca65214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147a3afc1b635e938c9b5125f0ef440b') in 0.001628 seconds
+  Import took 0.006369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.257930 seconds.
+  path: Assets/Art/level 8 background/frame_0.gif
+  artifactKey: Guid(1ba7274b376824f48abcd659c9757e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_0.gif using Guid(1ba7274b376824f48abcd659c9757e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e8b830ac3ccd05f7b0c765dec9878cb') in 0.021943 seconds
+  Import took 0.026527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011740 seconds.
+  path: Assets/Art/level 8 background/frame_0.gif
+  artifactKey: Guid(1ba7274b376824f48abcd659c9757e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_0.gif using Guid(1ba7274b376824f48abcd659c9757e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e8b830ac3ccd05f7b0c765dec9878cb') in 0.016026 seconds
+  Import took 0.020479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.560250 seconds.
+  path: Assets/Art/level 8 background/frame_1.gif
+  artifactKey: Guid(678bfd27c6ff248ca94839903095328b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_1.gif using Guid(678bfd27c6ff248ca94839903095328b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a255da8d5c52f1a9337b2b3fed1f355f') in 0.015513 seconds
+  Import took 0.020026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010196 seconds.
+  path: Assets/Art/level 8 background/frame_1.gif
+  artifactKey: Guid(678bfd27c6ff248ca94839903095328b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_1.gif using Guid(678bfd27c6ff248ca94839903095328b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a255da8d5c52f1a9337b2b3fed1f355f') in 0.013630 seconds
+  Import took 0.016786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.946954 seconds.
+  path: Assets/Art/level 8 background/frame_2.gif
+  artifactKey: Guid(7f491b306c8fe4290aceb4662d580ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_2.gif using Guid(7f491b306c8fe4290aceb4662d580ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89ed17b16fbb15b396a5753d7f275f2b') in 0.022151 seconds
+  Import took 0.026377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003575 seconds.
+  path: Assets/Art/level 8 background/frame_2.gif
+  artifactKey: Guid(7f491b306c8fe4290aceb4662d580ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_2.gif using Guid(7f491b306c8fe4290aceb4662d580ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89ed17b16fbb15b396a5753d7f275f2b') in 0.015809 seconds
+  Import took 0.021047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.119682 seconds.
+  path: Assets/Art/level 8 background/frame_3.gif
+  artifactKey: Guid(e5aaa132b668449d985dc98d8325efa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_3.gif using Guid(e5aaa132b668449d985dc98d8325efa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7275f626e7ac44227dc43d3d33481924') in 0.026219 seconds
+  Import took 0.030659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025176 seconds.
+  path: Assets/Art/level 8 background/frame_3.gif
+  artifactKey: Guid(e5aaa132b668449d985dc98d8325efa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_3.gif using Guid(e5aaa132b668449d985dc98d8325efa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7275f626e7ac44227dc43d3d33481924') in 0.017786 seconds
+  Import took 0.021555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.445451 seconds.
+  path: Assets/Art/level 8 background/frame_4.gif
+  artifactKey: Guid(a30360e32c77a42c18665429c3c48bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_4.gif using Guid(a30360e32c77a42c18665429c3c48bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf941eefa4985212225a798eb44aca1f') in 0.016758 seconds
+  Import took 0.021878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006582 seconds.
+  path: Assets/Art/level 8 background/frame_4.gif
+  artifactKey: Guid(a30360e32c77a42c18665429c3c48bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_4.gif using Guid(a30360e32c77a42c18665429c3c48bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf941eefa4985212225a798eb44aca1f') in 0.014507 seconds
+  Import took 0.018302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.199364 seconds.
+  path: Assets/Art/level 8 background/frame_5.gif
+  artifactKey: Guid(301ca6778142b4c04952304ec33e90b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_5.gif using Guid(301ca6778142b4c04952304ec33e90b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b970d72e97fa9f8f8b089772cb4bba8f') in 0.015595 seconds
+  Import took 0.019540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006191 seconds.
+  path: Assets/Art/level 8 background/frame_5.gif
+  artifactKey: Guid(301ca6778142b4c04952304ec33e90b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_5.gif using Guid(301ca6778142b4c04952304ec33e90b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b970d72e97fa9f8f8b089772cb4bba8f') in 0.016657 seconds
+  Import took 0.024206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.382990 seconds.
+  path: Assets/Art/level 8 background/frame_6.gif
+  artifactKey: Guid(0e7d9e7a8c194444494a19d0cd8b6cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_6.gif using Guid(0e7d9e7a8c194444494a19d0cd8b6cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81294b38633ef695673f932f9d79c63f') in 0.015648 seconds
+  Import took 0.019419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006128 seconds.
+  path: Assets/Art/level 8 background/frame_6.gif
+  artifactKey: Guid(0e7d9e7a8c194444494a19d0cd8b6cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_6.gif using Guid(0e7d9e7a8c194444494a19d0cd8b6cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81294b38633ef695673f932f9d79c63f') in 0.011729 seconds
+  Import took 0.014722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.753103 seconds.
+  path: Assets/Art/level 8 background/frame_7.gif
+  artifactKey: Guid(0c793e51323124572af8d61a3e40a36f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_7.gif using Guid(0c793e51323124572af8d61a3e40a36f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f018c401ce62b3298ad1507d7f00ea0') in 0.015740 seconds
+  Import took 0.019997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010168 seconds.
+  path: Assets/Art/level 8 background/frame_7.gif
+  artifactKey: Guid(0c793e51323124572af8d61a3e40a36f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/level 8 background/frame_7.gif using Guid(0c793e51323124572af8d61a3e40a36f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f018c401ce62b3298ad1507d7f00ea0') in 0.015047 seconds
+  Import took 0.019292 seconds .
+
