@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class Level8Script : MonoBehaviour
 {
-
+    public GameObject key;
     float cntdnw = 60.0f;
     public Text disvar;
 
@@ -23,12 +23,12 @@ public class Level8Script : MonoBehaviour
 
         disvar.text = b.ToString();
 
-        if (cntdnw < 0)
-
+        if(key == null)
+            SceneManager.LoadScene("level0_1");
+        else if (cntdnw < 0)
         {
             SceneManager.LoadScene("level0");
             Debug.Log("Completed");
-
         }
     }
 }

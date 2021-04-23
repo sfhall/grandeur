@@ -39,6 +39,6 @@ public class OpenDoor : MonoBehaviour
         Debug.Log(compare);
 
         if(compare < give && compare > 0 && open)
-            SceneManager.LoadScene("Level0");
+            SceneManager.LoadScene("Level0_1");
     }
 }
