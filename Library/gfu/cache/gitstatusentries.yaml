@@ -13,213 +13,1038 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-04-23T14:11:38.294-04:00
+  lastUpdatedAtString: 2021-04-23T15:34:23.605-04:00
   initializedAtString: 2021-04-23T02:42:45.763-04:00
   entries:
-  - path: .vs/grandeur/xs/project-cache/Assembly-CSharp-Debug.json
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/.vs/grandeur/xs/project-cache/Assembly-CSharp-Debug.json
-    projectPath: .vs/grandeur/xs/project-cache/Assembly-CSharp-Debug.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: .vs/grandeur/xs/UserPrefs.xml
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/.vs/grandeur/xs/UserPrefs.xml
-    projectPath: .vs/grandeur/xs/UserPrefs.xml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: assets/Art/Asuna/Bullet.prefab
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Asuna/Bullet.prefab
-    projectPath: assets/Art/Asuna/Bullet.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: assets/Art/DcrM0EI.gif
     fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/DcrM0EI.gif
     projectPath: assets/Art/DcrM0EI.gif
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: assets/Art/DcrM0EI.gif.meta
     fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/DcrM0EI.gif.meta
     projectPath: assets/Art/DcrM0EI.gif.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: assets/Art/level 8 background.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: assets/Art/level 8 background/DcrM0EI.gif
     fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background.meta
-    projectPath: assets/Art/level 8 background.meta
+      8 background/DcrM0EI.gif
+    projectPath: assets/Art/level 8 background/DcrM0EI.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/BackgroundMove.anim
+  - path: assets/Art/level 8 background/DcrM0EI.gif.meta
     fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/BackgroundMove.anim
-    projectPath: assets/Art/level 8 background/BackgroundMove.anim
+      8 background/DcrM0EI.gif.meta
+    projectPath: assets/Art/level 8 background/DcrM0EI.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/BackgroundMove.anim.meta
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/BackgroundMove.anim.meta
-    projectPath: assets/Art/level 8 background/BackgroundMove.anim.meta
+  - path: assets/Art/Level5 Backgrounds.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds.meta
+    projectPath: assets/Art/Level5 Backgrounds.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_0_delay-0.12s.gif
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_0_delay-0.12s.gif
-    projectPath: assets/Art/level 8 background/frame_0_delay-0.12s.gif
+  - path: assets/Art/Level5 Backgrounds/417de5b3ad9130af56ed3726450465e8.jpg
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/417de5b3ad9130af56ed3726450465e8.jpg
+    projectPath: assets/Art/Level5 Backgrounds/417de5b3ad9130af56ed3726450465e8.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_0_delay-0.12s.gif.meta
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_0_delay-0.12s.gif.meta
-    projectPath: assets/Art/level 8 background/frame_0_delay-0.12s.gif.meta
+  - path: assets/Art/Level5 Backgrounds/417de5b3ad9130af56ed3726450465e8.jpg.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/417de5b3ad9130af56ed3726450465e8.jpg.meta
+    projectPath: assets/Art/Level5 Backgrounds/417de5b3ad9130af56ed3726450465e8.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_1_delay-0.12s.gif
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_1_delay-0.12s.gif
-    projectPath: assets/Art/level 8 background/frame_1_delay-0.12s.gif
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_1_delay-0.12s.gif.meta
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_1_delay-0.12s.gif.meta
-    projectPath: assets/Art/level 8 background/frame_1_delay-0.12s.gif.meta
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_00_delay-0.13s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_00_delay-0.13s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_00_delay-0.13s.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_2_delay-0.12s.gif
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_2_delay-0.12s.gif
-    projectPath: assets/Art/level 8 background/frame_2_delay-0.12s.gif
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_00_delay-0.13s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_00_delay-0.13s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_00_delay-0.13s.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_2_delay-0.12s.gif.meta
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_2_delay-0.12s.gif.meta
-    projectPath: assets/Art/level 8 background/frame_2_delay-0.12s.gif.meta
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_01_delay-0.09s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_01_delay-0.09s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_01_delay-0.09s.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_3_delay-0.12s.gif
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_3_delay-0.12s.gif
-    projectPath: assets/Art/level 8 background/frame_3_delay-0.12s.gif
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_01_delay-0.09s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_01_delay-0.09s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_01_delay-0.09s.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_3_delay-0.12s.gif.meta
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_3_delay-0.12s.gif.meta
-    projectPath: assets/Art/level 8 background/frame_3_delay-0.12s.gif.meta
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_02_delay-0.07s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_02_delay-0.07s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_02_delay-0.07s.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_4_delay-0.12s.gif
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_4_delay-0.12s.gif
-    projectPath: assets/Art/level 8 background/frame_4_delay-0.12s.gif
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_02_delay-0.07s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_02_delay-0.07s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_02_delay-0.07s.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_4_delay-0.12s.gif.meta
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_4_delay-0.12s.gif.meta
-    projectPath: assets/Art/level 8 background/frame_4_delay-0.12s.gif.meta
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_03_delay-0.07s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_03_delay-0.07s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_03_delay-0.07s.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_5_delay-0.12s.gif
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_5_delay-0.12s.gif
-    projectPath: assets/Art/level 8 background/frame_5_delay-0.12s.gif
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_03_delay-0.07s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_03_delay-0.07s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_03_delay-0.07s.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_5_delay-0.12s.gif.meta
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_5_delay-0.12s.gif.meta
-    projectPath: assets/Art/level 8 background/frame_5_delay-0.12s.gif.meta
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_04_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_04_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_04_delay-0.08s.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_6_delay-0.12s.gif
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_6_delay-0.12s.gif
-    projectPath: assets/Art/level 8 background/frame_6_delay-0.12s.gif
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_04_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_04_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_04_delay-0.08s.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_6_delay-0.12s.gif.meta
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_6_delay-0.12s.gif.meta
-    projectPath: assets/Art/level 8 background/frame_6_delay-0.12s.gif.meta
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_05_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_05_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_05_delay-0.08s.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_7_delay-0.12s.gif
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_7_delay-0.12s.gif
-    projectPath: assets/Art/level 8 background/frame_7_delay-0.12s.gif
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_05_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_05_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_05_delay-0.08s.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/frame_7_delay-0.12s.gif.meta
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/frame_7_delay-0.12s.gif.meta
-    projectPath: assets/Art/level 8 background/frame_7_delay-0.12s.gif.meta
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_06_delay-0.12s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_06_delay-0.12s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_06_delay-0.12s.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/LevelDesign.controller
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/LevelDesign.controller
-    projectPath: assets/Art/level 8 background/LevelDesign.controller
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_06_delay-0.12s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_06_delay-0.12s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_06_delay-0.12s.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Art/level 8 background/LevelDesign.controller.meta
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/level
-      8 background/LevelDesign.controller.meta
-    projectPath: assets/Art/level 8 background/LevelDesign.controller.meta
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_07_delay-0.04s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_07_delay-0.04s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_07_delay-0.04s.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Level8Script.cs
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Level8Script.cs
-    projectPath: assets/Level8Script.cs
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_07_delay-0.04s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_07_delay-0.04s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_07_delay-0.04s.gif.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Level8Script.cs.meta
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Level8Script.cs.meta
-    projectPath: assets/Level8Script.cs.meta
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_08_delay-0.09s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_08_delay-0.09s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_08_delay-0.09s.gif
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: assets/Scenes/Level0_1.unity
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Scenes/Level0_1.unity
-    projectPath: assets/Scenes/Level0_1.unity
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_08_delay-0.09s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_08_delay-0.09s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_08_delay-0.09s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_09_delay-0.11s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_09_delay-0.11s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_09_delay-0.11s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_09_delay-0.11s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_09_delay-0.11s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_09_delay-0.11s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_10_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_10_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_10_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_10_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_10_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_10_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_11_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_11_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_11_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_11_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_11_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_11_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_12_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_12_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_12_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_12_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_12_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_12_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_13_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_13_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_13_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_13_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_13_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_13_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_14_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_14_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_14_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_14_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_14_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_14_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_15_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_15_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_15_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_15_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_15_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_15_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_16_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_16_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_16_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_16_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_16_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_16_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_17_delay-0.07s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_17_delay-0.07s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_17_delay-0.07s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_17_delay-0.07s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_17_delay-0.07s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_17_delay-0.07s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_18_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_18_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_18_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_18_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_18_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_18_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_19_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_19_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_19_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_19_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_19_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_19_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_20_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_20_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_20_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_20_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_20_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_20_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_21_delay-0.12s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_21_delay-0.12s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_21_delay-0.12s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_21_delay-0.12s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_21_delay-0.12s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_21_delay-0.12s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_22_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_22_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_22_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_22_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_22_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_22_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_23_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_23_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_23_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_23_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_23_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_23_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_24_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_24_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_24_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_24_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_24_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_24_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_25_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_25_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_25_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_25_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_25_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_25_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_26_delay-0.07s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_26_delay-0.07s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_26_delay-0.07s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_26_delay-0.07s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_26_delay-0.07s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_26_delay-0.07s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_27_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_27_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_27_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_27_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_27_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_27_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_28_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_28_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_28_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_28_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_28_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_28_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_29_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_29_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_29_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_29_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_29_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_29_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_30_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_30_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_30_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_30_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_30_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_30_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_31_delay-0.09s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_31_delay-0.09s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_31_delay-0.09s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_31_delay-0.09s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_31_delay-0.09s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_31_delay-0.09s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_32_delay-0.07s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_32_delay-0.07s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_32_delay-0.07s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_32_delay-0.07s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_32_delay-0.07s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_32_delay-0.07s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_33_delay-0.12s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_33_delay-0.12s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_33_delay-0.12s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_33_delay-0.12s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_33_delay-0.12s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_33_delay-0.12s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_34_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_34_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_34_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_34_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_34_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_34_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_35_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_35_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_35_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_35_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_35_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_35_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_36_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_36_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_36_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_36_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_36_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_36_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_37_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_37_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_37_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_37_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_37_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_37_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_38_delay-0.09s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_38_delay-0.09s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_38_delay-0.09s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_38_delay-0.09s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_38_delay-0.09s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_38_delay-0.09s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_39_delay-0.07s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_39_delay-0.07s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_39_delay-0.07s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_39_delay-0.07s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_39_delay-0.07s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_39_delay-0.07s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_40_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_40_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_40_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_40_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_40_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_40_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_41_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_41_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_41_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_41_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_41_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_41_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_42_delay-0.12s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_42_delay-0.12s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_42_delay-0.12s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_42_delay-0.12s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_42_delay-0.12s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_42_delay-0.12s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_43_delay-0.04s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_43_delay-0.04s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_43_delay-0.04s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_43_delay-0.04s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_43_delay-0.04s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_43_delay-0.04s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_44_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_44_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_44_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_44_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_44_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_44_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_45_delay-0.13s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_45_delay-0.13s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_45_delay-0.13s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_45_delay-0.13s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_45_delay-0.13s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_45_delay-0.13s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_46_delay-0.03s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_46_delay-0.03s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_46_delay-0.03s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_46_delay-0.03s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_46_delay-0.03s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_46_delay-0.03s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_47_delay-0.12s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_47_delay-0.12s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_47_delay-0.12s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_47_delay-0.12s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_47_delay-0.12s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_47_delay-0.12s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_48_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_48_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_48_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_48_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_48_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_48_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_49_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_49_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_49_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_49_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_49_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_49_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_50_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_50_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_50_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_50_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_50_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_50_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_51_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_51_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_51_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_51_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_51_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_51_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_52_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_52_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_52_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_52_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_52_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_52_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_53_delay-0.12s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_53_delay-0.12s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_53_delay-0.12s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_53_delay-0.12s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_53_delay-0.12s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_53_delay-0.12s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_54_delay-0.04s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_54_delay-0.04s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_54_delay-0.04s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_54_delay-0.04s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_54_delay-0.04s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_54_delay-0.04s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_55_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_55_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_55_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_55_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_55_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_55_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_56_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_56_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_56_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_56_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_56_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_56_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_57_delay-0.11s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_57_delay-0.11s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_57_delay-0.11s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_57_delay-0.11s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_57_delay-0.11s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_57_delay-0.11s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_58_delay-0.04s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_58_delay-0.04s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_58_delay-0.04s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_58_delay-0.04s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_58_delay-0.04s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_58_delay-0.04s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_59_delay-0.12s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_59_delay-0.12s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_59_delay-0.12s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_59_delay-0.12s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_59_delay-0.12s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_59_delay-0.12s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_60_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_60_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_60_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_60_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_60_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_60_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_61_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_61_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_61_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_61_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_61_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_61_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_62_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_62_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_62_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_62_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_62_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_62_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_63_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_63_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_63_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_63_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_63_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_63_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_64_delay-0.08s.gif
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_64_delay-0.08s.gif
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_64_delay-0.08s.gif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/frame_64_delay-0.08s.gif.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/frame_64_delay-0.08s.gif.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/frame_64_delay-0.08s.gif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/LevelDesign5.controller
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/LevelDesign5.controller
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/LevelDesign5.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/LevelDesign5.controller.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/LevelDesign5.controller.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/LevelDesign5.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/MoveBackground.anim
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/MoveBackground.anim
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/MoveBackground.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/level 5 animated background/MoveBackground.anim.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/level 5 animated background/MoveBackground.anim.meta
+    projectPath: assets/Art/Level5 Backgrounds/level 5 animated background/MoveBackground.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/medieval-castle-ballroom-historical-museum-hall-cartoon-vector-background-shiny-tiled-floor-red-curtains-big-window-high-columns-flags-with-heraldic-emblem-tapestry-walls-illustration_1441-3108.jpg
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/medieval-castle-ballroom-historical-museum-hall-cartoon-vector-background-shiny-tiled-floor-red-curtains-big-window-high-columns-flags-with-heraldic-emblem-tapestry-walls-illustration_1441-3108.jpg
+    projectPath: assets/Art/Level5 Backgrounds/medieval-castle-ballroom-historical-museum-hall-cartoon-vector-background-shiny-tiled-floor-red-curtains-big-window-high-columns-flags-with-heraldic-emblem-tapestry-walls-illustration_1441-3108.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/medieval-castle-ballroom-historical-museum-hall-cartoon-vector-background-shiny-tiled-floor-red-curtains-big-window-high-columns-flags-with-heraldic-emblem-tapestry-walls-illustration_1441-3108.jpg.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/medieval-castle-ballroom-historical-museum-hall-cartoon-vector-background-shiny-tiled-floor-red-curtains-big-window-high-columns-flags-with-heraldic-emblem-tapestry-walls-illustration_1441-3108.jpg.meta
+    projectPath: assets/Art/Level5 Backgrounds/medieval-castle-ballroom-historical-museum-hall-cartoon-vector-background-shiny-tiled-floor-red-curtains-big-window-high-columns-flags-with-heraldic-emblem-tapestry-walls-illustration_1441-3108.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/vector-castle-hall-two-thrones-260nw-1200929701.jpg
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/vector-castle-hall-two-thrones-260nw-1200929701.jpg
+    projectPath: assets/Art/Level5 Backgrounds/vector-castle-hall-two-thrones-260nw-1200929701.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Art/Level5 Backgrounds/vector-castle-hall-two-thrones-260nw-1200929701.jpg.meta
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Art/Level5
+      Backgrounds/vector-castle-hall-two-thrones-260nw-1200929701.jpg.meta
+    projectPath: assets/Art/Level5 Backgrounds/vector-castle-hall-two-thrones-260nw-1200929701.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: assets/Scenes/Level5.unity
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Scenes/Level5.unity
+    projectPath: assets/Scenes/Level5.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: assets/Scripts/BossHealth.cs
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Scripts/BossHealth.cs
-    projectPath: assets/Scripts/BossHealth.cs
+  - path: assets/Scenes/Level8.unity
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/assets/Scenes/Level8.unity
+    projectPath: assets/Scenes/Level8.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -229,231 +1054,885 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/0b/0b9d2139cd8a1fdf827a8e026f43ce24
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/0b/0b9d2139cd8a1fdf827a8e026f43ce24
-    projectPath: Library/Artifacts/0b/0b9d2139cd8a1fdf827a8e026f43ce24
+  - path: Library/Artifacts/02/022ce0fffb0e5d4cc42ee8aa4aa5217a
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/02/022ce0fffb0e5d4cc42ee8aa4aa5217a
+    projectPath: Library/Artifacts/02/022ce0fffb0e5d4cc42ee8aa4aa5217a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/0f/0f3cf9924f8fdab14d6b77b72a7aedc2
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/0f/0f3cf9924f8fdab14d6b77b72a7aedc2
-    projectPath: Library/Artifacts/0f/0f3cf9924f8fdab14d6b77b72a7aedc2
+  - path: Library/Artifacts/02/026a64e414de39b35590c39f97b841a7
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/02/026a64e414de39b35590c39f97b841a7
+    projectPath: Library/Artifacts/02/026a64e414de39b35590c39f97b841a7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/1d/1d9fc1671f8307dcb1448dd10a38ed56
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/1d/1d9fc1671f8307dcb1448dd10a38ed56
-    projectPath: Library/Artifacts/1d/1d9fc1671f8307dcb1448dd10a38ed56
+  - path: Library/Artifacts/04/04a977245f7a856fa6130aa13f2c1477
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/04/04a977245f7a856fa6130aa13f2c1477
+    projectPath: Library/Artifacts/04/04a977245f7a856fa6130aa13f2c1477
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/1e/1eef7433a64534aedca43c866676ca65
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/1e/1eef7433a64534aedca43c866676ca65
-    projectPath: Library/Artifacts/1e/1eef7433a64534aedca43c866676ca65
+  - path: Library/Artifacts/05/05a921d9af8ddc94eaf9fe70fb5d604f
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/05/05a921d9af8ddc94eaf9fe70fb5d604f
+    projectPath: Library/Artifacts/05/05a921d9af8ddc94eaf9fe70fb5d604f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/20/20cda6ee30fa26f47ccb005290709477
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/20/20cda6ee30fa26f47ccb005290709477
-    projectPath: Library/Artifacts/20/20cda6ee30fa26f47ccb005290709477
+  - path: Library/Artifacts/06/06f212860a8529cbbab83387ea50b4a0
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/06/06f212860a8529cbbab83387ea50b4a0
+    projectPath: Library/Artifacts/06/06f212860a8529cbbab83387ea50b4a0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/21/21866ffbb5b816a734c6b8bff2a85d42
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/21/21866ffbb5b816a734c6b8bff2a85d42
-    projectPath: Library/Artifacts/21/21866ffbb5b816a734c6b8bff2a85d42
+  - path: Library/Artifacts/09/0997846c09f9f00d1b168aea8db781b2
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/09/0997846c09f9f00d1b168aea8db781b2
+    projectPath: Library/Artifacts/09/0997846c09f9f00d1b168aea8db781b2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/2a/2a1af46c3f64ff71c203c4d3b1848da6
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/2a/2a1af46c3f64ff71c203c4d3b1848da6
-    projectPath: Library/Artifacts/2a/2a1af46c3f64ff71c203c4d3b1848da6
+  - path: Library/Artifacts/0a/0a61fda9bf2a7a64ea06a81843ef2034
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/0a/0a61fda9bf2a7a64ea06a81843ef2034
+    projectPath: Library/Artifacts/0a/0a61fda9bf2a7a64ea06a81843ef2034
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/2a/2ab87a0eae8f55efb9ff3f0358c5654f
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/2a/2ab87a0eae8f55efb9ff3f0358c5654f
-    projectPath: Library/Artifacts/2a/2ab87a0eae8f55efb9ff3f0358c5654f
+  - path: Library/Artifacts/0b/0b95101572c1dfe4dc3d149066ddbe9d
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/0b/0b95101572c1dfe4dc3d149066ddbe9d
+    projectPath: Library/Artifacts/0b/0b95101572c1dfe4dc3d149066ddbe9d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/4b/4b1bb8ebb505e885908c5792c2327310
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/4b/4b1bb8ebb505e885908c5792c2327310
-    projectPath: Library/Artifacts/4b/4b1bb8ebb505e885908c5792c2327310
+  - path: Library/Artifacts/0e/0e3e8c55b015af14a7fe8030dc6b97dc
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/0e/0e3e8c55b015af14a7fe8030dc6b97dc
+    projectPath: Library/Artifacts/0e/0e3e8c55b015af14a7fe8030dc6b97dc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/58/58723dc8bf9d3df511c3bfd7b24c2a05
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/58/58723dc8bf9d3df511c3bfd7b24c2a05
-    projectPath: Library/Artifacts/58/58723dc8bf9d3df511c3bfd7b24c2a05
+  - path: Library/Artifacts/10/104d8796ec862cafe17f0f7244fa2a4c
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/10/104d8796ec862cafe17f0f7244fa2a4c
+    projectPath: Library/Artifacts/10/104d8796ec862cafe17f0f7244fa2a4c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/5b/5beda52b1e46e9f3f21c185b9612732f
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/5b/5beda52b1e46e9f3f21c185b9612732f
-    projectPath: Library/Artifacts/5b/5beda52b1e46e9f3f21c185b9612732f
+  - path: Library/Artifacts/10/10667ff6ff988c74e6b7ceb44db489b7
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/10/10667ff6ff988c74e6b7ceb44db489b7
+    projectPath: Library/Artifacts/10/10667ff6ff988c74e6b7ceb44db489b7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/66/6674ef516b73e16471f9c35fef6ce18f
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/66/6674ef516b73e16471f9c35fef6ce18f
-    projectPath: Library/Artifacts/66/6674ef516b73e16471f9c35fef6ce18f
+  - path: Library/Artifacts/13/13ad0a31e4670f002cf9e8c70ea9d4a3
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/13/13ad0a31e4670f002cf9e8c70ea9d4a3
+    projectPath: Library/Artifacts/13/13ad0a31e4670f002cf9e8c70ea9d4a3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/66/66a6e624859ba1fadfe35b6af5224b29
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/66/66a6e624859ba1fadfe35b6af5224b29
-    projectPath: Library/Artifacts/66/66a6e624859ba1fadfe35b6af5224b29
+  - path: Library/Artifacts/14/14e8d5356216ba6b0cf976d6e5e75a98
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/14/14e8d5356216ba6b0cf976d6e5e75a98
+    projectPath: Library/Artifacts/14/14e8d5356216ba6b0cf976d6e5e75a98
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/74/74883fc9b0a3c90eea7c07e93a986cbf
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/74/74883fc9b0a3c90eea7c07e93a986cbf
-    projectPath: Library/Artifacts/74/74883fc9b0a3c90eea7c07e93a986cbf
+  - path: Library/Artifacts/15/15aec1ef88818209e652606ee042da35
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/15/15aec1ef88818209e652606ee042da35
+    projectPath: Library/Artifacts/15/15aec1ef88818209e652606ee042da35
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/76/7655460d51f436b01defa7a0a71bc32a
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/76/7655460d51f436b01defa7a0a71bc32a
-    projectPath: Library/Artifacts/76/7655460d51f436b01defa7a0a71bc32a
+  - path: Library/Artifacts/17/17facecaf19db2bee345f3562f9deb5c
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/17/17facecaf19db2bee345f3562f9deb5c
+    projectPath: Library/Artifacts/17/17facecaf19db2bee345f3562f9deb5c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/8b/8b2e53cb2837ddcd69bfe9ee93b77532
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/8b/8b2e53cb2837ddcd69bfe9ee93b77532
-    projectPath: Library/Artifacts/8b/8b2e53cb2837ddcd69bfe9ee93b77532
+  - path: Library/Artifacts/19/196f4e0396f1d7716e425d899e6b7960
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/19/196f4e0396f1d7716e425d899e6b7960
+    projectPath: Library/Artifacts/19/196f4e0396f1d7716e425d899e6b7960
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/90/909ca618d6f4ee08ca9048d3b734e3fa
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/90/909ca618d6f4ee08ca9048d3b734e3fa
-    projectPath: Library/Artifacts/90/909ca618d6f4ee08ca9048d3b734e3fa
+  - path: Library/Artifacts/1e/1ec31befe77b035324866800581c3dc6
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/1e/1ec31befe77b035324866800581c3dc6
+    projectPath: Library/Artifacts/1e/1ec31befe77b035324866800581c3dc6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/93/93bb8364893f776c54167374ea10eada
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/93/93bb8364893f776c54167374ea10eada
-    projectPath: Library/Artifacts/93/93bb8364893f776c54167374ea10eada
+  - path: Library/Artifacts/20/20f4ad0976c8a9a68213ba8c5307f58f
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/20/20f4ad0976c8a9a68213ba8c5307f58f
+    projectPath: Library/Artifacts/20/20f4ad0976c8a9a68213ba8c5307f58f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/9b/9b6a2409c12086c93dd6472e7cd580b4
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/9b/9b6a2409c12086c93dd6472e7cd580b4
-    projectPath: Library/Artifacts/9b/9b6a2409c12086c93dd6472e7cd580b4
+  - path: Library/Artifacts/24/24682f4ec9167da8f3ca8544b64cf2c9
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/24/24682f4ec9167da8f3ca8544b64cf2c9
+    projectPath: Library/Artifacts/24/24682f4ec9167da8f3ca8544b64cf2c9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/9f/9f2e5ccc29dbbf51eb29c570668d30f4
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/9f/9f2e5ccc29dbbf51eb29c570668d30f4
-    projectPath: Library/Artifacts/9f/9f2e5ccc29dbbf51eb29c570668d30f4
+  - path: Library/Artifacts/2c/2c36ce47f7ed02c3adfce0a1aa85009f
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/2c/2c36ce47f7ed02c3adfce0a1aa85009f
+    projectPath: Library/Artifacts/2c/2c36ce47f7ed02c3adfce0a1aa85009f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/a9/a9fedc6d35f6ee9acd7e610c1b9a6eee
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/a9/a9fedc6d35f6ee9acd7e610c1b9a6eee
-    projectPath: Library/Artifacts/a9/a9fedc6d35f6ee9acd7e610c1b9a6eee
+  - path: Library/Artifacts/2c/2c709cbc45555b462f9c519f5e1223bb
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/2c/2c709cbc45555b462f9c519f5e1223bb
+    projectPath: Library/Artifacts/2c/2c709cbc45555b462f9c519f5e1223bb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b8/b836febf61fb2836e5d4c04be678785e
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/b8/b836febf61fb2836e5d4c04be678785e
-    projectPath: Library/Artifacts/b8/b836febf61fb2836e5d4c04be678785e
+  - path: Library/Artifacts/2d/2d678a1f424ed4a95fb46d2a7aa40f0a
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/2d/2d678a1f424ed4a95fb46d2a7aa40f0a
+    projectPath: Library/Artifacts/2d/2d678a1f424ed4a95fb46d2a7aa40f0a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b8/b8c3be35b8da961f984bdce035f2943a
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/b8/b8c3be35b8da961f984bdce035f2943a
-    projectPath: Library/Artifacts/b8/b8c3be35b8da961f984bdce035f2943a
+  - path: Library/Artifacts/31/3126a6e287f060a766779f3aa5db6b1a
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/31/3126a6e287f060a766779f3aa5db6b1a
+    projectPath: Library/Artifacts/31/3126a6e287f060a766779f3aa5db6b1a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/c3/c39a7cc5bf50e3314b7fff207b178748
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/c3/c39a7cc5bf50e3314b7fff207b178748
-    projectPath: Library/Artifacts/c3/c39a7cc5bf50e3314b7fff207b178748
+  - path: Library/Artifacts/32/329ef49320cbdbc279f10b0304dca123
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/32/329ef49320cbdbc279f10b0304dca123
+    projectPath: Library/Artifacts/32/329ef49320cbdbc279f10b0304dca123
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/c8/c81c87a32888029daeba5b2478761f97
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/c8/c81c87a32888029daeba5b2478761f97
-    projectPath: Library/Artifacts/c8/c81c87a32888029daeba5b2478761f97
+  - path: Library/Artifacts/36/36d95687579a92f5e72fc2ab23aa8a26
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/36/36d95687579a92f5e72fc2ab23aa8a26
+    projectPath: Library/Artifacts/36/36d95687579a92f5e72fc2ab23aa8a26
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/c8/c8530c31f831b6680855e4195cbc60f1
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/c8/c8530c31f831b6680855e4195cbc60f1
-    projectPath: Library/Artifacts/c8/c8530c31f831b6680855e4195cbc60f1
+  - path: Library/Artifacts/38/38e32ddaead0a7c74cf0bb6c8e2adcb4
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/38/38e32ddaead0a7c74cf0bb6c8e2adcb4
+    projectPath: Library/Artifacts/38/38e32ddaead0a7c74cf0bb6c8e2adcb4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ca/cafef1c843432aaedaa37cdc53cd10b1
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/ca/cafef1c843432aaedaa37cdc53cd10b1
-    projectPath: Library/Artifacts/ca/cafef1c843432aaedaa37cdc53cd10b1
+  - path: Library/Artifacts/3b/3b8e5cd80330145c363c9f03baf0c62b
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/3b/3b8e5cd80330145c363c9f03baf0c62b
+    projectPath: Library/Artifacts/3b/3b8e5cd80330145c363c9f03baf0c62b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/cd/cdbb38d047b92f2cdc1e6df0136fa552
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/cd/cdbb38d047b92f2cdc1e6df0136fa552
-    projectPath: Library/Artifacts/cd/cdbb38d047b92f2cdc1e6df0136fa552
+  - path: Library/Artifacts/3d/3d157d690c4b728e7a57b0f5f44e1420
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/3d/3d157d690c4b728e7a57b0f5f44e1420
+    projectPath: Library/Artifacts/3d/3d157d690c4b728e7a57b0f5f44e1420
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/cf/cf1f437db2c90fd08852b034d30debaf
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/cf/cf1f437db2c90fd08852b034d30debaf
-    projectPath: Library/Artifacts/cf/cf1f437db2c90fd08852b034d30debaf
+  - path: Library/Artifacts/3d/3db2cbcdde2a990e8c433c19b13fff82
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/3d/3db2cbcdde2a990e8c433c19b13fff82
+    projectPath: Library/Artifacts/3d/3db2cbcdde2a990e8c433c19b13fff82
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/d0/d09e4aae1a0329d063d4119f30630296
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/d0/d09e4aae1a0329d063d4119f30630296
-    projectPath: Library/Artifacts/d0/d09e4aae1a0329d063d4119f30630296
+  - path: Library/Artifacts/3e/3e49ac2097deb8534265e62981045379
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/3e/3e49ac2097deb8534265e62981045379
+    projectPath: Library/Artifacts/3e/3e49ac2097deb8534265e62981045379
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/d8/d8bae04fb0e0e2163fd8aa0d177a3d9e
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/d8/d8bae04fb0e0e2163fd8aa0d177a3d9e
-    projectPath: Library/Artifacts/d8/d8bae04fb0e0e2163fd8aa0d177a3d9e
+  - path: Library/Artifacts/42/427d56275530ff1370560acb7d2375d3
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/42/427d56275530ff1370560acb7d2375d3
+    projectPath: Library/Artifacts/42/427d56275530ff1370560acb7d2375d3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/d9/d99ed8abe33d8ec2c45f40d76bde0e5f
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/d9/d99ed8abe33d8ec2c45f40d76bde0e5f
-    projectPath: Library/Artifacts/d9/d99ed8abe33d8ec2c45f40d76bde0e5f
+  - path: Library/Artifacts/42/42e8e8eb607892db7f33ef31018e63fb
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/42/42e8e8eb607892db7f33ef31018e63fb
+    projectPath: Library/Artifacts/42/42e8e8eb607892db7f33ef31018e63fb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/dd/ddb1c1fd491b7ac80c74064ef25d8800
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/dd/ddb1c1fd491b7ac80c74064ef25d8800
-    projectPath: Library/Artifacts/dd/ddb1c1fd491b7ac80c74064ef25d8800
+  - path: Library/Artifacts/44/448f4d9480d87871b33cb1ddc5078967
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/44/448f4d9480d87871b33cb1ddc5078967
+    projectPath: Library/Artifacts/44/448f4d9480d87871b33cb1ddc5078967
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/dd/ddd53b87ac79c9dcdcc75deee8690e91
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/dd/ddd53b87ac79c9dcdcc75deee8690e91
-    projectPath: Library/Artifacts/dd/ddd53b87ac79c9dcdcc75deee8690e91
+  - path: Library/Artifacts/44/44bd2dfd1d5e61a5d31b63e8ccb63f19
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/44/44bd2dfd1d5e61a5d31b63e8ccb63f19
+    projectPath: Library/Artifacts/44/44bd2dfd1d5e61a5d31b63e8ccb63f19
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/df/dfcf918cdf95d733969d625a1e3ccd5e
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/df/dfcf918cdf95d733969d625a1e3ccd5e
-    projectPath: Library/Artifacts/df/dfcf918cdf95d733969d625a1e3ccd5e
+  - path: Library/Artifacts/44/44f8899c03dac7e6ac6960574ddaccc1
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/44/44f8899c03dac7e6ac6960574ddaccc1
+    projectPath: Library/Artifacts/44/44f8899c03dac7e6ac6960574ddaccc1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/e0/e0e2216521db80bd72aed81d9bf034a2
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/e0/e0e2216521db80bd72aed81d9bf034a2
-    projectPath: Library/Artifacts/e0/e0e2216521db80bd72aed81d9bf034a2
+  - path: Library/Artifacts/47/470c95faa5af1dcce13b531ac87cbf5e
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/47/470c95faa5af1dcce13b531ac87cbf5e
+    projectPath: Library/Artifacts/47/470c95faa5af1dcce13b531ac87cbf5e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/e8/e87a0aaf64ceb02bb1aee5fc668b8b4d
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/e8/e87a0aaf64ceb02bb1aee5fc668b8b4d
-    projectPath: Library/Artifacts/e8/e87a0aaf64ceb02bb1aee5fc668b8b4d
+  - path: Library/Artifacts/48/48953d990038f7f79446e805152e9d18
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/48/48953d990038f7f79446e805152e9d18
+    projectPath: Library/Artifacts/48/48953d990038f7f79446e805152e9d18
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/f4/f41d79fb50df1b18114f73758cdb4c07
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/f4/f41d79fb50df1b18114f73758cdb4c07
-    projectPath: Library/Artifacts/f4/f41d79fb50df1b18114f73758cdb4c07
+  - path: Library/Artifacts/4a/4a5a430a2ce6f7d23aaf39844bc4120f
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/4a/4a5a430a2ce6f7d23aaf39844bc4120f
+    projectPath: Library/Artifacts/4a/4a5a430a2ce6f7d23aaf39844bc4120f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4b/4bad477d657f7dd4a8ab260c8de7d491
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/4b/4bad477d657f7dd4a8ab260c8de7d491
+    projectPath: Library/Artifacts/4b/4bad477d657f7dd4a8ab260c8de7d491
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4c/4c5c7439b830f6a1676f13804d21513e
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/4c/4c5c7439b830f6a1676f13804d21513e
+    projectPath: Library/Artifacts/4c/4c5c7439b830f6a1676f13804d21513e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4c/4c858405f182948e1e913e2e32963672
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/4c/4c858405f182948e1e913e2e32963672
+    projectPath: Library/Artifacts/4c/4c858405f182948e1e913e2e32963672
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4c/4cabb360320b740a4229090d12b051c0
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/4c/4cabb360320b740a4229090d12b051c0
+    projectPath: Library/Artifacts/4c/4cabb360320b740a4229090d12b051c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4d/4de02cfaff0e3689ae59536d6fd19f45
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/4d/4de02cfaff0e3689ae59536d6fd19f45
+    projectPath: Library/Artifacts/4d/4de02cfaff0e3689ae59536d6fd19f45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/50/50a6902e3b41de662a49449afd569aed
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/50/50a6902e3b41de662a49449afd569aed
+    projectPath: Library/Artifacts/50/50a6902e3b41de662a49449afd569aed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/53/53d876fce570a06b9187a0b0c93cf01d
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/53/53d876fce570a06b9187a0b0c93cf01d
+    projectPath: Library/Artifacts/53/53d876fce570a06b9187a0b0c93cf01d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/57/57923f23bbde5a79a516900aa0445f00
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/57/57923f23bbde5a79a516900aa0445f00
+    projectPath: Library/Artifacts/57/57923f23bbde5a79a516900aa0445f00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/58/58ca74dbad52f09f1927754b0a66eacf
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/58/58ca74dbad52f09f1927754b0a66eacf
+    projectPath: Library/Artifacts/58/58ca74dbad52f09f1927754b0a66eacf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5a/5ae09178b6cf96f9c45cf1b542f8703c
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/5a/5ae09178b6cf96f9c45cf1b542f8703c
+    projectPath: Library/Artifacts/5a/5ae09178b6cf96f9c45cf1b542f8703c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5b/5b4e26b8ca62480ff1a9cc17e5f86632
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/5b/5b4e26b8ca62480ff1a9cc17e5f86632
+    projectPath: Library/Artifacts/5b/5b4e26b8ca62480ff1a9cc17e5f86632
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5e/5e0f578306254db6b29daf1122c3460f
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/5e/5e0f578306254db6b29daf1122c3460f
+    projectPath: Library/Artifacts/5e/5e0f578306254db6b29daf1122c3460f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5f/5f7396531d38e37dd1c4c1d258d2f2cd
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/5f/5f7396531d38e37dd1c4c1d258d2f2cd
+    projectPath: Library/Artifacts/5f/5f7396531d38e37dd1c4c1d258d2f2cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/60/60c82934a1294cd3a30fce41c2264f5c
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/60/60c82934a1294cd3a30fce41c2264f5c
+    projectPath: Library/Artifacts/60/60c82934a1294cd3a30fce41c2264f5c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/62/622417fa5a378feb2ba2d2f5adb44871
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/62/622417fa5a378feb2ba2d2f5adb44871
+    projectPath: Library/Artifacts/62/622417fa5a378feb2ba2d2f5adb44871
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/67/67a920229d728d7f81d3b83ebd8c367d
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/67/67a920229d728d7f81d3b83ebd8c367d
+    projectPath: Library/Artifacts/67/67a920229d728d7f81d3b83ebd8c367d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/67/67c45c56fa35d4c83e75d5c5434f9b38
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/67/67c45c56fa35d4c83e75d5c5434f9b38
+    projectPath: Library/Artifacts/67/67c45c56fa35d4c83e75d5c5434f9b38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/68/688472eb0238bc6ad213be3633596ffa
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/68/688472eb0238bc6ad213be3633596ffa
+    projectPath: Library/Artifacts/68/688472eb0238bc6ad213be3633596ffa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/68/68f219e1d55632e6a14645f44425e57a
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/68/68f219e1d55632e6a14645f44425e57a
+    projectPath: Library/Artifacts/68/68f219e1d55632e6a14645f44425e57a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/69/69824faa2d2824d0268b64b0a6216497
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/69/69824faa2d2824d0268b64b0a6216497
+    projectPath: Library/Artifacts/69/69824faa2d2824d0268b64b0a6216497
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/69/69bcc211e0f26f938021f95af94ede1a
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/69/69bcc211e0f26f938021f95af94ede1a
+    projectPath: Library/Artifacts/69/69bcc211e0f26f938021f95af94ede1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6a/6a2855349832181934db0d49ca40fb68
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/6a/6a2855349832181934db0d49ca40fb68
+    projectPath: Library/Artifacts/6a/6a2855349832181934db0d49ca40fb68
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6a/6aab8e1b97524fb9e8f6ce418a794024
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/6a/6aab8e1b97524fb9e8f6ce418a794024
+    projectPath: Library/Artifacts/6a/6aab8e1b97524fb9e8f6ce418a794024
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6b/6b084318960e4522e44d73166c1ad29b
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/6b/6b084318960e4522e44d73166c1ad29b
+    projectPath: Library/Artifacts/6b/6b084318960e4522e44d73166c1ad29b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6c/6c626f5c01209e3a8193eeb5c1a4a450
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/6c/6c626f5c01209e3a8193eeb5c1a4a450
+    projectPath: Library/Artifacts/6c/6c626f5c01209e3a8193eeb5c1a4a450
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/71/715e00e50ce920ee589e38ca2dfb0144
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/71/715e00e50ce920ee589e38ca2dfb0144
+    projectPath: Library/Artifacts/71/715e00e50ce920ee589e38ca2dfb0144
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/71/718d61cfdf474cdfbdb5fef15ac6c980
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/71/718d61cfdf474cdfbdb5fef15ac6c980
+    projectPath: Library/Artifacts/71/718d61cfdf474cdfbdb5fef15ac6c980
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/74/7447e4be323cdb5ebe66b81c5bc1b7e8
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/74/7447e4be323cdb5ebe66b81c5bc1b7e8
+    projectPath: Library/Artifacts/74/7447e4be323cdb5ebe66b81c5bc1b7e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/75/753625e031e3751fd226b519bd8cea6f
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/75/753625e031e3751fd226b519bd8cea6f
+    projectPath: Library/Artifacts/75/753625e031e3751fd226b519bd8cea6f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/75/7556fa4600e5f42d95c73e3decbaf70b
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/75/7556fa4600e5f42d95c73e3decbaf70b
+    projectPath: Library/Artifacts/75/7556fa4600e5f42d95c73e3decbaf70b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/76/7643fcb588c85dd5d8ed44856dbb780e
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/76/7643fcb588c85dd5d8ed44856dbb780e
+    projectPath: Library/Artifacts/76/7643fcb588c85dd5d8ed44856dbb780e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/76/76d3fd13133340ca7a8c17cf0e52f72d
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/76/76d3fd13133340ca7a8c17cf0e52f72d
+    projectPath: Library/Artifacts/76/76d3fd13133340ca7a8c17cf0e52f72d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/77/7790ab85cab46b916563b1999f0ca210
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/77/7790ab85cab46b916563b1999f0ca210
+    projectPath: Library/Artifacts/77/7790ab85cab46b916563b1999f0ca210
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/78/788228edec7f63a1506d7e396d0fafa2
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/78/788228edec7f63a1506d7e396d0fafa2
+    projectPath: Library/Artifacts/78/788228edec7f63a1506d7e396d0fafa2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/78/78a1358c4a4471de38b0af04476b2965
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/78/78a1358c4a4471de38b0af04476b2965
+    projectPath: Library/Artifacts/78/78a1358c4a4471de38b0af04476b2965
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7c/7c96bdc52c11f600329b4ddea76d40f6
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/7c/7c96bdc52c11f600329b4ddea76d40f6
+    projectPath: Library/Artifacts/7c/7c96bdc52c11f600329b4ddea76d40f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7c/7cfa15387ae03bbeb631f856c06edbde
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/7c/7cfa15387ae03bbeb631f856c06edbde
+    projectPath: Library/Artifacts/7c/7cfa15387ae03bbeb631f856c06edbde
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7e/7e0b5ea3c1392bc666b089b4f72efa55
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/7e/7e0b5ea3c1392bc666b089b4f72efa55
+    projectPath: Library/Artifacts/7e/7e0b5ea3c1392bc666b089b4f72efa55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/80/80ab4a497a587db96ad57bd47fee003b
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/80/80ab4a497a587db96ad57bd47fee003b
+    projectPath: Library/Artifacts/80/80ab4a497a587db96ad57bd47fee003b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/82/82c16f4da7ffe7fc420dbe21c3a780e8
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/82/82c16f4da7ffe7fc420dbe21c3a780e8
+    projectPath: Library/Artifacts/82/82c16f4da7ffe7fc420dbe21c3a780e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/85/858af0f25005c27c1d30e6fa8a59fcdd
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/85/858af0f25005c27c1d30e6fa8a59fcdd
+    projectPath: Library/Artifacts/85/858af0f25005c27c1d30e6fa8a59fcdd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/86/8657caa3b03a1d4c78de571d67f2cd0a
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/86/8657caa3b03a1d4c78de571d67f2cd0a
+    projectPath: Library/Artifacts/86/8657caa3b03a1d4c78de571d67f2cd0a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8c/8c3d7a47c6fb8d0793cb92bb0d28ed31
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/8c/8c3d7a47c6fb8d0793cb92bb0d28ed31
+    projectPath: Library/Artifacts/8c/8c3d7a47c6fb8d0793cb92bb0d28ed31
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/91/919424c3e9c9d4112faf4bc3f35c9d78
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/91/919424c3e9c9d4112faf4bc3f35c9d78
+    projectPath: Library/Artifacts/91/919424c3e9c9d4112faf4bc3f35c9d78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/92/9257aead2cc95c74b1207d1f743757a4
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/92/9257aead2cc95c74b1207d1f743757a4
+    projectPath: Library/Artifacts/92/9257aead2cc95c74b1207d1f743757a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/92/92ddb0f2afcd7d4457c1069decbb968b
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/92/92ddb0f2afcd7d4457c1069decbb968b
+    projectPath: Library/Artifacts/92/92ddb0f2afcd7d4457c1069decbb968b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/95/95702bc0dfffb332136c2d77649e4011
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/95/95702bc0dfffb332136c2d77649e4011
+    projectPath: Library/Artifacts/95/95702bc0dfffb332136c2d77649e4011
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/95/957e6ce0683fbea83f25801476b6dd44
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/95/957e6ce0683fbea83f25801476b6dd44
+    projectPath: Library/Artifacts/95/957e6ce0683fbea83f25801476b6dd44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9c/9c22e9807dbf00a493f60415c8022968
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/9c/9c22e9807dbf00a493f60415c8022968
+    projectPath: Library/Artifacts/9c/9c22e9807dbf00a493f60415c8022968
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9d/9dbe8d80b92a9780e4fb5e3aeda3b4a0
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/9d/9dbe8d80b92a9780e4fb5e3aeda3b4a0
+    projectPath: Library/Artifacts/9d/9dbe8d80b92a9780e4fb5e3aeda3b4a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9d/9dc8c3718c1256813a6c1407ac430d77
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/9d/9dc8c3718c1256813a6c1407ac430d77
+    projectPath: Library/Artifacts/9d/9dc8c3718c1256813a6c1407ac430d77
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9e/9eab83ab37d301aedc040c77b886d58a
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/9e/9eab83ab37d301aedc040c77b886d58a
+    projectPath: Library/Artifacts/9e/9eab83ab37d301aedc040c77b886d58a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a3/a3511b9ddf983477def822f69a3d81f1
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/a3/a3511b9ddf983477def822f69a3d81f1
+    projectPath: Library/Artifacts/a3/a3511b9ddf983477def822f69a3d81f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a4/a423e18092e804733e940102475e5349
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/a4/a423e18092e804733e940102475e5349
+    projectPath: Library/Artifacts/a4/a423e18092e804733e940102475e5349
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a8/a816aaf7cc37fdb3ba522ab9b954f2ee
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/a8/a816aaf7cc37fdb3ba522ab9b954f2ee
+    projectPath: Library/Artifacts/a8/a816aaf7cc37fdb3ba522ab9b954f2ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/aa/aac62b3774bbff17e40282050ec9b0e5
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/aa/aac62b3774bbff17e40282050ec9b0e5
+    projectPath: Library/Artifacts/aa/aac62b3774bbff17e40282050ec9b0e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ac/ac1c7cd10bae1323c241a0ba786e9ca5
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/ac/ac1c7cd10bae1323c241a0ba786e9ca5
+    projectPath: Library/Artifacts/ac/ac1c7cd10bae1323c241a0ba786e9ca5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ac/ac6d8ad7284d8c87e40d00c64fcabb34
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/ac/ac6d8ad7284d8c87e40d00c64fcabb34
+    projectPath: Library/Artifacts/ac/ac6d8ad7284d8c87e40d00c64fcabb34
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ac/acdd47e1dd8e6039bdc2633cb29e2bcd
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/ac/acdd47e1dd8e6039bdc2633cb29e2bcd
+    projectPath: Library/Artifacts/ac/acdd47e1dd8e6039bdc2633cb29e2bcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ae/ae5a6ed8013e8a36b7ae1a4789709038
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/ae/ae5a6ed8013e8a36b7ae1a4789709038
+    projectPath: Library/Artifacts/ae/ae5a6ed8013e8a36b7ae1a4789709038
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/af/af612f00158ca54ca0f123def5da8ac5
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/af/af612f00158ca54ca0f123def5da8ac5
+    projectPath: Library/Artifacts/af/af612f00158ca54ca0f123def5da8ac5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b0/b09631f89137bf4367ed885a06847760
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/b0/b09631f89137bf4367ed885a06847760
+    projectPath: Library/Artifacts/b0/b09631f89137bf4367ed885a06847760
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b1/b1fa8807380fc77f091a120fec16cefe
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/b1/b1fa8807380fc77f091a120fec16cefe
+    projectPath: Library/Artifacts/b1/b1fa8807380fc77f091a120fec16cefe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b4/b4ae3239757b537a72de2af8d0fb34c6
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/b4/b4ae3239757b537a72de2af8d0fb34c6
+    projectPath: Library/Artifacts/b4/b4ae3239757b537a72de2af8d0fb34c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b7/b766e399e8fb89fbd20d9345e80e232f
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/b7/b766e399e8fb89fbd20d9345e80e232f
+    projectPath: Library/Artifacts/b7/b766e399e8fb89fbd20d9345e80e232f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bd/bd9f01da85b05f85af6206f5e093dfdb
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/bd/bd9f01da85b05f85af6206f5e093dfdb
+    projectPath: Library/Artifacts/bd/bd9f01da85b05f85af6206f5e093dfdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c0/c066d3cd35df503fcb8e5e67f22aeb92
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/c0/c066d3cd35df503fcb8e5e67f22aeb92
+    projectPath: Library/Artifacts/c0/c066d3cd35df503fcb8e5e67f22aeb92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c0/c0aa047ac56bc6f49f84282d5eb430a8
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/c0/c0aa047ac56bc6f49f84282d5eb430a8
+    projectPath: Library/Artifacts/c0/c0aa047ac56bc6f49f84282d5eb430a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c1/c122a95a7de3e9c71d89819b3a9ddefe
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/c1/c122a95a7de3e9c71d89819b3a9ddefe
+    projectPath: Library/Artifacts/c1/c122a95a7de3e9c71d89819b3a9ddefe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c3/c3eeeb2f9fbefe897c3b913f2a16258b
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/c3/c3eeeb2f9fbefe897c3b913f2a16258b
+    projectPath: Library/Artifacts/c3/c3eeeb2f9fbefe897c3b913f2a16258b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c4/c4bfa70e150264cf112a64b7e89d8b78
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/c4/c4bfa70e150264cf112a64b7e89d8b78
+    projectPath: Library/Artifacts/c4/c4bfa70e150264cf112a64b7e89d8b78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c5/c5cff28d6b0ae9abbc2d31494c94647d
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/c5/c5cff28d6b0ae9abbc2d31494c94647d
+    projectPath: Library/Artifacts/c5/c5cff28d6b0ae9abbc2d31494c94647d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c8/c876191c42707f145819de765d8aa1e2
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/c8/c876191c42707f145819de765d8aa1e2
+    projectPath: Library/Artifacts/c8/c876191c42707f145819de765d8aa1e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c8/c89a813de29d4e4d90aa2e19656374a4
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/c8/c89a813de29d4e4d90aa2e19656374a4
+    projectPath: Library/Artifacts/c8/c89a813de29d4e4d90aa2e19656374a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cb/cb0d5e671e93a74fb347c927017970a5
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/cb/cb0d5e671e93a74fb347c927017970a5
+    projectPath: Library/Artifacts/cb/cb0d5e671e93a74fb347c927017970a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cb/cbe7ea42c1f070c8a740570ca2fc8e07
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/cb/cbe7ea42c1f070c8a740570ca2fc8e07
+    projectPath: Library/Artifacts/cb/cbe7ea42c1f070c8a740570ca2fc8e07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cf/cf61a9de2895da33033f42c485a5bfdc
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/cf/cf61a9de2895da33033f42c485a5bfdc
+    projectPath: Library/Artifacts/cf/cf61a9de2895da33033f42c485a5bfdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cf/cf93e48773decad07bbcef1a61a884ea
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/cf/cf93e48773decad07bbcef1a61a884ea
+    projectPath: Library/Artifacts/cf/cf93e48773decad07bbcef1a61a884ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cf/cfdf48b5f7a1bb19bd2842f0f72ccafb
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/cf/cfdf48b5f7a1bb19bd2842f0f72ccafb
+    projectPath: Library/Artifacts/cf/cfdf48b5f7a1bb19bd2842f0f72ccafb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d0/d0894b1e53249d247f4a6d02686afda8
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/d0/d0894b1e53249d247f4a6d02686afda8
+    projectPath: Library/Artifacts/d0/d0894b1e53249d247f4a6d02686afda8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d0/d0ee13ee4d1f9bc71a08096b7c8f044b
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/d0/d0ee13ee4d1f9bc71a08096b7c8f044b
+    projectPath: Library/Artifacts/d0/d0ee13ee4d1f9bc71a08096b7c8f044b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d1/d13e994361225193d14bbe8e285f996e
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/d1/d13e994361225193d14bbe8e285f996e
+    projectPath: Library/Artifacts/d1/d13e994361225193d14bbe8e285f996e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d1/d1edbd07b2645ec7da704b90ebb31967
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/d1/d1edbd07b2645ec7da704b90ebb31967
+    projectPath: Library/Artifacts/d1/d1edbd07b2645ec7da704b90ebb31967
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d3/d31601ee81f5d88a47c0bf01cd09cbc5
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/d3/d31601ee81f5d88a47c0bf01cd09cbc5
+    projectPath: Library/Artifacts/d3/d31601ee81f5d88a47c0bf01cd09cbc5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d4/d49f55a0962ee67c1d796420a014ab5b
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/d4/d49f55a0962ee67c1d796420a014ab5b
+    projectPath: Library/Artifacts/d4/d49f55a0962ee67c1d796420a014ab5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d4/d4f1baba0b48b4b792d6c44f7f0fafa6
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/d4/d4f1baba0b48b4b792d6c44f7f0fafa6
+    projectPath: Library/Artifacts/d4/d4f1baba0b48b4b792d6c44f7f0fafa6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/da/da9030118d4865a0e71f572b3992d7d5
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/da/da9030118d4865a0e71f572b3992d7d5
+    projectPath: Library/Artifacts/da/da9030118d4865a0e71f572b3992d7d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/de/ded833fd2134736c0f32561258d7ddd4
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/de/ded833fd2134736c0f32561258d7ddd4
+    projectPath: Library/Artifacts/de/ded833fd2134736c0f32561258d7ddd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e0/e06f356f69e9a4b90b0633adc376483b
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/e0/e06f356f69e9a4b90b0633adc376483b
+    projectPath: Library/Artifacts/e0/e06f356f69e9a4b90b0633adc376483b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e1/e1c2aaab205b76ce768fc3fa719c8c42
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/e1/e1c2aaab205b76ce768fc3fa719c8c42
+    projectPath: Library/Artifacts/e1/e1c2aaab205b76ce768fc3fa719c8c42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e2/e2a27e3bc7277eff9b29c95629bb6083
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/e2/e2a27e3bc7277eff9b29c95629bb6083
+    projectPath: Library/Artifacts/e2/e2a27e3bc7277eff9b29c95629bb6083
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e2/e2cbf681d62fe251e6759a1a2b281f49
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/e2/e2cbf681d62fe251e6759a1a2b281f49
+    projectPath: Library/Artifacts/e2/e2cbf681d62fe251e6759a1a2b281f49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e4/e4b9336736feaf266bb9ab648ec41967
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/e4/e4b9336736feaf266bb9ab648ec41967
+    projectPath: Library/Artifacts/e4/e4b9336736feaf266bb9ab648ec41967
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e5/e5a2c44bc8c96969c5ebb88bb2cab478
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/e5/e5a2c44bc8c96969c5ebb88bb2cab478
+    projectPath: Library/Artifacts/e5/e5a2c44bc8c96969c5ebb88bb2cab478
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e6/e644755d3ba2a26c83862678d8e940ed
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/e6/e644755d3ba2a26c83862678d8e940ed
+    projectPath: Library/Artifacts/e6/e644755d3ba2a26c83862678d8e940ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e8/e8ecbfee532184e8f88a227c806d471e
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/e8/e8ecbfee532184e8f88a227c806d471e
+    projectPath: Library/Artifacts/e8/e8ecbfee532184e8f88a227c806d471e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e8/e8ece953b060f4cc534f6d086f7a1e51
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/e8/e8ece953b060f4cc534f6d086f7a1e51
+    projectPath: Library/Artifacts/e8/e8ece953b060f4cc534f6d086f7a1e51
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ea/ea42d1df972ff16dc0174d7edd8fbb17
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/ea/ea42d1df972ff16dc0174d7edd8fbb17
+    projectPath: Library/Artifacts/ea/ea42d1df972ff16dc0174d7edd8fbb17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/eb/ebf4ea4665ff67fd98c9bcc15256e4e3
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/eb/ebf4ea4665ff67fd98c9bcc15256e4e3
+    projectPath: Library/Artifacts/eb/ebf4ea4665ff67fd98c9bcc15256e4e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ec/ec3a9b7484c1bc7def338a5fde9f7ccd
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/ec/ec3a9b7484c1bc7def338a5fde9f7ccd
+    projectPath: Library/Artifacts/ec/ec3a9b7484c1bc7def338a5fde9f7ccd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ee/eea03b8b2b86f3a6f96d76393d4d6ff2
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/ee/eea03b8b2b86f3a6f96d76393d4d6ff2
+    projectPath: Library/Artifacts/ee/eea03b8b2b86f3a6f96d76393d4d6ff2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f0/f099626ad3e04eafbbc1fc9f7c599ed5
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/f0/f099626ad3e04eafbbc1fc9f7c599ed5
+    projectPath: Library/Artifacts/f0/f099626ad3e04eafbbc1fc9f7c599ed5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f2/f26e22bdbce922462c089efbb66b0f27
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/f2/f26e22bdbce922462c089efbb66b0f27
+    projectPath: Library/Artifacts/f2/f26e22bdbce922462c089efbb66b0f27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f8/f89781526caf12daf77636f9a13406a0
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/f8/f89781526caf12daf77636f9a13406a0
+    projectPath: Library/Artifacts/f8/f89781526caf12daf77636f9a13406a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f9/f9b24b1e10e6b592a1eff42a19e5331f
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/f9/f9b24b1e10e6b592a1eff42a19e5331f
+    projectPath: Library/Artifacts/f9/f9b24b1e10e6b592a1eff42a19e5331f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/fa/fa14e59f226574c27aeea8c1f842ab84
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/fa/fa14e59f226574c27aeea8c1f842ab84
+    projectPath: Library/Artifacts/fa/fa14e59f226574c27aeea8c1f842ab84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/fc/fcef6ab27b228ba9b5d00c43a3cef978
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/fc/fcef6ab27b228ba9b5d00c43a3cef978
+    projectPath: Library/Artifacts/fc/fcef6ab27b228ba9b5d00c43a3cef978
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/fe/feb5611006539991dd09b7008b1593c8
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/fe/feb5611006539991dd09b7008b1593c8
+    projectPath: Library/Artifacts/fe/feb5611006539991dd09b7008b1593c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ff/ffbc38221b2fe4e82d6abb681331fa70
+    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/Artifacts/ff/ffbc38221b2fe4e82d6abb681331fa70
+    projectPath: Library/Artifacts/ff/ffbc38221b2fe4e82d6abb681331fa70
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -466,12 +1945,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/gfu/cache/gitlog.yaml
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/gfu/cache/gitlog.yaml
-    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -499,18 +1972,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/ScriptAssemblies/Assembly-CSharp.dll
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/ScriptAssemblies/Assembly-CSharp.pdb
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/SourceAssetDB
     fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
@@ -535,48 +1996,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Temp/__Backupscenes/0.backup
     fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/Assembly-CSharp.dll.hash
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Temp/Assembly-CSharp.dll.hash
-    projectPath: Temp/Assembly-CSharp.dll.hash
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp/CompilationLog.txt
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Temp/CompilationLog.txt
-    projectPath: Temp/CompilationLog.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp/UnityTempFile-1dcb3e7f42143416eab481c727af2456
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Temp/UnityTempFile-1dcb3e7f42143416eab481c727af2456
-    projectPath: Temp/UnityTempFile-1dcb3e7f42143416eab481c727af2456
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-d5de33586d4314021b0b30615332f95d
-    fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/Temp/UnityTempFile-d5de33586d4314021b0b30615332f95d
-    projectPath: Temp/UnityTempFile-d5de33586d4314021b0b30615332f95d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: UserSettings/EditorUserSettings.asset
     fullPath: /Users/mr.cookie/Desktop/CEN 4020/Capstone Project/Repo2/grandeur/UserSettings/EditorUserSettings.asset
     projectPath: UserSettings/EditorUserSettings.asset
