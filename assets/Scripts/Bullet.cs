@@ -5,7 +5,7 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     public float speed = 20f;
-    public int damage = 20;
+    public int damage = 40;
 
     public Rigidbody2D rb;
     //public GameObject impactEffect;
@@ -21,7 +21,8 @@ public class Bullet : MonoBehaviour
         Enemy enemy = hitInfo.GetComponent<Enemy>();
         if (enemy != null)
         {
-            enemy.TakeDamage(damage);
+            //enemy.TakeDamage(damage);
+            hitInfo.GetComponent<BossHealth>().TakeDamage(damage);
         }
 
         //Instantiate(impactEffect, transform.position, transform.rotation);

@@ -1,23 +1,29 @@
 ﻿<Properties StartupConfiguration="{CC088726-4455-CC04-3946-8203FD095CDE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="assets/Scripts/Weapon.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets/HealthBar.cs">
     <Files>
-      <File FileName="Assets/Scripts/Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="8" Column="26" />
       <File FileName="Assets/Scripts/CharacterController2D.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/DashMove.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Enemy.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/MainMenu.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/PlayerCombat.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DashMove.cs" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="7" Column="5" />
+      <File FileName="Assets/Scripts/MainMenu.cs" />
+      <File FileName="Assets/Scripts/PlayerCombat.cs" Line="42" Column="10" />
       <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Weapon.cs" Line="1" Column="1" />
+      <File FileName="assets/Boss_Run.cs" Line="8" Column="33" />
+      <File FileName="assets/Boss.cs" Line="14" Column="42" />
+      <File FileName="assets/BossWeapon.cs" Line="21" Column="3" />
+      <File FileName="assets/PlayerHealth.cs" Line="27" Column="33" />
+      <File FileName="assets/BossHealth.cs" Line="29" Column="4" />
+      <File FileName="assets/Boss_Enrage.cs" Line="20" Column="89" />
+      <File FileName="assets/HealthBar.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="grandeur" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Weapon.cs" selected="True" />
-              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="HealthBar.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -26,7 +32,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6f39fea2-4d64-4910-859c-2efa58180a66" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="64b8bef0-f510-40e4-b56c-9d1208db551e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

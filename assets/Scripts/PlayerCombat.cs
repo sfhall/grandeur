@@ -34,15 +34,22 @@ public class PlayerCombat : MonoBehaviour
         animator.SetBool("IsJumping", false);
 
         //Detect enemies in range of attack
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+        
+        Collider2D hitEnemies = Physics2D.OverlapCircle(attackPoint.position, attackRange, enemyLayers);
+        if (hitEnemies != null)
+        {
+            hitEnemies.GetComponent<BossHealth>().TakeDamage(attackDamage);
+        }
+
+        /*Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
 
         //Damage enemies
-        foreach(Collider2D enemy in hitEnemies)
+        foreach (Collider2D enemy in hitEnemies)
         {
             // Debug.Log("We hit " + enemy.name);
 
             enemy.GetComponent<Enemy>().TakeDamage(attackDamage);
-        }
+        }*/
     }
 
     private void OnDrawGizmosSelected()
