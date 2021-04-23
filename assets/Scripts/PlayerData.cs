@@ -8,7 +8,7 @@ public class PlayerData : MonoBehaviour
     public GameObject player;
     public int level;
     public float health;
-    public float[] position = new float[3];
+    public float[] position;
     public int numKeys;
     // Start is called before the first frame update
     void Start()
@@ -36,7 +36,7 @@ public class PlayerData : MonoBehaviour
         //not the best way to do this but oh well
         switch (levelName)
         {
-            case "Level0_1":
+            case "Level0":
                 theLevel = 0;
                 break;
             case "Level1":
