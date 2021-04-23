@@ -25,12 +25,10 @@ public class Level8Script : MonoBehaviour
 
         if(key == null)
             SceneManager.LoadScene("level0_1");
-        if (cntdnw < 0)
-
+        else if (cntdnw < 0)
         {
             SceneManager.LoadScene("level0");
             Debug.Log("Completed");
-
         }
     }
 }
