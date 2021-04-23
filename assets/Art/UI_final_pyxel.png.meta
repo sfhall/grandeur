@@ -1780,7 +1780,7 @@ TextureImporter:
     second: UI_final_pyxel_591
   - first:
       213: -451315765181371046
-    second: UI_final_pyxel_592
+    second: blueSlot
   - first:
       213: -2450561865901427750
     second: UI_final_pyxel_593
@@ -14410,7 +14410,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI_final_pyxel_592
+      name: blueSlot
       rect:
         serializedVersion: 2
         x: 191
