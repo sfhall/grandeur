@@ -20,8 +20,8 @@ public class BossHealth : MonoBehaviour
 
 	public GameObject key;
 
-	float cntdnw = 60.0f;
-	public Text disvar;
+	//float cntdnw = 60.0f;
+	//public Text disvar;
 
 	void Start()
 	{
@@ -30,6 +30,7 @@ public class BossHealth : MonoBehaviour
 		key.SetActive(false);
 	}
 
+	/*
 	void Update()
 	{
 
@@ -52,6 +53,7 @@ public class BossHealth : MonoBehaviour
 		}
 
 	}
+	*/
 
 	public void TakeDamage(int damage)
 	{

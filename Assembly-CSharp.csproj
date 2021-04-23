@@ -81,6 +81,7 @@
     <Compile Include="Assets/Scripts/BossHealth.cs" />
     <Compile Include="Assets/Scripts/Boss_Enrage.cs" />
     <Compile Include="Assets/Scripts/HealthBar.cs" />
+    <Compile Include="Assets/Level8Script.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />

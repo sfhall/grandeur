@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{CC088726-4455-CC04-3946-8203FD095CDE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="assets/Scripts/levelScripts/LevelZeroScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets/Scripts/BossHealth.cs">
     <Files>
       <File FileName="Assets/Scripts/Bullet.cs" Line="8" Column="26" />
       <File FileName="Assets/Scripts/CharacterController2D.cs" />
@@ -7,15 +7,17 @@
       <File FileName="Assets/Scripts/Enemy.cs" />
       <File FileName="Assets/Scripts/MainMenu.cs" />
       <File FileName="Assets/Scripts/PlayerCombat.cs" />
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" />
       <File FileName="Assets/Scripts/Weapon.cs" />
       <File FileName="assets/Scripts/Keys/KeyPickup.cs" />
       <File FileName="Assets/Scripts/LevelSeven.cs" />
       <File FileName="Assets/Scripts/GemPuzzel.cs" />
       <File FileName="assets/Scripts/OpenDoor.cs" />
-      <File FileName="assets/Scripts/PlayerData.cs" />
-      <File FileName="Assets/Scripts/levelScripts/LevelZeroScript.cs" Line="27" Column="59" />
-      <File FileName="Assets/Scripts/levelScripts/ActivatePlatforms.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/PlayerData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/levelScripts/LevelZeroScript.cs" />
+      <File FileName="Assets/Scripts/levelScripts/ActivatePlatforms.cs" />
+      <File FileName="assets/Scripts/BossHealth.cs" Line="23" Column="1" />
+      <File FileName="assets/Level8Script.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,9 +26,8 @@
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
                 <Node name="Keys" expanded="True" />
-                <Node name="levelScripts" expanded="True">
-                  <Node name="LevelZeroScript.cs" selected="True" />
-                </Node>
+                <Node name="levelScripts" expanded="True" />
+                <Node name="BossHealth.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -36,7 +37,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dc5cb86b-1b30-4c24-a385-0e71d08a99cf" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="64b8bef0-f510-40e4-b56c-9d1208db551e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
