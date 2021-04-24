@@ -1,45 +1,50 @@
-﻿<Properties StartupConfiguration="{CC088726-4455-CC04-3946-8203FD095CDE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="assets/Scripts/BossWeapon.cs">
+﻿<Properties StartupConfiguration="{DED2BF40-0713-6427-23EF-F50CA6D0CE1C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets/DeploySwords.cs">
     <Files>
-      <File FileName="Assets/Scripts/Bullet.cs" Line="8" Column="26" />
-      <File FileName="Assets/Scripts/CharacterController2D.cs" />
-      <File FileName="Assets/Scripts/DashMove.cs" />
-      <File FileName="Assets/Scripts/Enemy.cs" />
-      <File FileName="Assets/Scripts/MainMenu.cs" />
-      <File FileName="Assets/Scripts/PlayerCombat.cs" />
-      <File FileName="Assets/Scripts/PlayerMovement.cs" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="29" Column="29" />
+      <File FileName="Assets/Scripts/CharacterController2D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DashMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerCombat.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="87" Column="13" />
       <File FileName="Assets/Scripts/Weapon.cs" />
-      <File FileName="assets/Scripts/Keys/KeyPickup.cs" />
-      <File FileName="Assets/Scripts/LevelSeven.cs" />
-      <File FileName="Assets/Scripts/GemPuzzel.cs" />
-      <File FileName="assets/Scripts/OpenDoor.cs" />
-      <File FileName="assets/Scripts/PlayerData.cs" />
-      <File FileName="Assets/Scripts/levelScripts/LevelZeroScript.cs" />
-      <File FileName="Assets/Scripts/levelScripts/ActivatePlatforms.cs" />
-      <File FileName="assets/Scripts/BossHealth.cs" Line="31" Column="3" />
-      <File FileName="Assets/Scripts/BossWeapon.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/Keys/KeyPickup.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelSeven.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GemPuzzel.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/OpenDoor.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/PlayerData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/levelScripts/LevelZeroScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/levelScripts/ActivatePlatforms.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/BossHealth.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/BossWeapon.cs" Line="24" Column="4" />
+      <File FileName="Assets/Scripts/Boss_Enrage.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Boss_Run.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Boss.cs" Line="1" Column="1" />
+      <File FileName="assets/Scripts/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="assets/HazardDamage.cs" Line="19" Column="6" />
+      <File FileName="assets/projectile.cs" Line="28" Column="1" />
+      <File FileName="assets/projectileDamage.cs" Line="24" Column="34" />
+      <File FileName="assets/DeploySwords.cs" Line="7" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="grandeur" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Keys" expanded="True" />
-                <Node name="levelScripts" expanded="True" />
-                <Node name="BossWeapon.cs" selected="True" />
-              </Node>
-            </Node>
+            <Node name="Assets" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Assembly-CSharp.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="86596eb3-6bce-4760-8221-5712f9c14479" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="86596eb3-6bce-4760-8221-5712f9c14479" />
 </Properties>

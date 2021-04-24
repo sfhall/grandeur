@@ -56,32 +56,37 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/Boss_Enrage.cs" />
+    <Compile Include="Assets/Scripts/HealthBar.cs" />
+    <Compile Include="Assets/Level8Script.cs" />
     <Compile Include="Assets/Scripts/CharacterController2D.cs" />
     <Compile Include="Assets/Scripts/PlayerCombat.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
     <Compile Include="Assets/Scripts/GemPuzzel.cs" />
     <Compile Include="Assets/Scripts/levelScripts/LevelZeroScript.cs" />
     <Compile Include="Assets/Scripts/Enemy.cs" />
+    <Compile Include="Assets/Scripts/Boss.cs" />
     <Compile Include="Assets/Scripts/OpenDoor.cs" />
     <Compile Include="Assets/Scripts/Keys/KeyPickup.cs" />
     <Compile Include="Assets/Scripts/Keys/PlayerKeys.cs" />
     <Compile Include="Assets/Scripts/gameMenu.cs" />
+    <Compile Include="Assets/Scripts/Boss_Run.cs" />
     <Compile Include="Assets/Scripts/levelScripts/ActivatePlatforms.cs" />
+    <Compile Include="Assets/Scripts/PlayerHealth.cs" />
     <Compile Include="Assets/Scripts/LevelSeven.cs" />
     <Compile Include="Assets/Scripts/Weapon.cs" />
+    <Compile Include="Assets/Scripts/BossHealth.cs" />
     <Compile Include="Assets/Scripts/MainMenu.cs" />
     <Compile Include="Assets/Scripts/DashMove.cs" />
     <Compile Include="Assets/Scripts/ShowInstructions.cs" />
     <Compile Include="Assets/Scripts/Bullet.cs" />
-    <Compile Include="Assets/Scripts/PlayerData.cs" />
-    <Compile Include="Assets/Scripts/Boss_Run.cs" />
-    <Compile Include="Assets/Scripts/Boss.cs" />
     <Compile Include="Assets/Scripts/BossWeapon.cs" />
-    <Compile Include="Assets/Scripts/PlayerHealth.cs" />
-    <Compile Include="Assets/Scripts/BossHealth.cs" />
-    <Compile Include="Assets/Scripts/Boss_Enrage.cs" />
-    <Compile Include="Assets/Scripts/HealthBar.cs" />
-    <Compile Include="Assets/Level8Script.cs" />
+    <Compile Include="Assets/Scripts/PlayerData.cs" />
+    <Compile Include="Assets/HazardDamage.cs" />
+    <Compile Include="Assets/projectile.cs" />
+    <Compile Include="Assets/projectileDamage.cs" />
+    <Compile Include="Assets/DeploySwords.cs" />
+    <Compile Include="Assets/Scripts/Spike.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
